@@ -1,0 +1,1803 @@
+17
+Start of 1 epoch
+	 Train loss : 6.3705775187773, val loss : 4.637379235478902
+	 Train accuracy : 0.04214285714285714, val accuracy : 0.044333333333333336
+Start of 2 epoch
+	 Train loss : 4.627194725908447, val loss : 3.8794245116450172
+	 Train accuracy : 0.06478571428571428, val accuracy : 0.06916666666666667
+Start of 3 epoch
+	 Train loss : 3.8791628669042404, val loss : 3.5398846379862587
+	 Train accuracy : 0.05564285714285714, val accuracy : 0.0595
+Start of 4 epoch
+	 Train loss : 3.5330944951174144, val loss : 3.3788951183292655
+	 Train accuracy : 0.04342857142857143, val accuracy : 0.04516666666666667
+Start of 5 epoch
+	 Train loss : 3.376678224605143, val loss : 3.3160388718401217
+	 Train accuracy : 0.07407142857142857, val accuracy : 0.075
+Start of 6 epoch
+	 Train loss : 3.30066802700949, val loss : 3.272318725087253
+	 Train accuracy : 0.06107142857142857, val accuracy : 0.05633333333333333
+Start of 7 epoch
+	 Train loss : 3.2787636355441006, val loss : 3.227470443933289
+	 Train accuracy : 0.09035714285714286, val accuracy : 0.085
+Start of 8 epoch
+	 Train loss : 3.2042862830083623, val loss : 3.1986583340633765
+	 Train accuracy : 0.07828571428571429, val accuracy : 0.07166666666666667
+Start of 9 epoch
+	 Train loss : 3.2053045153023874, val loss : 3.129878200094295
+	 Train accuracy : 0.10642857142857143, val accuracy : 0.10333333333333333
+Start of 10 epoch
+	 Train loss : 3.107695354695337, val loss : 3.1215288546794726
+	 Train accuracy : 0.10528571428571429, val accuracy : 0.0965
+Start of 11 epoch
+	 Train loss : 3.127854900730157, val loss : 3.037412952970857
+	 Train accuracy : 0.1397142857142857, val accuracy : 0.128
+Start of 12 epoch
+	 Train loss : 3.0121684641390547, val loss : 3.0372567808227906
+	 Train accuracy : 0.12964285714285714, val accuracy : 0.12433333333333334
+Start of 13 epoch
+	 Train loss : 3.0437490579066653, val loss : 2.9556050958023286
+	 Train accuracy : 0.16635714285714287, val accuracy : 0.152
+Start of 14 epoch
+	 Train loss : 2.930396495255653, val loss : 2.9609879434378086
+	 Train accuracy : 0.15357142857142858, val accuracy : 0.14916666666666667
+Start of 15 epoch
+	 Train loss : 2.966323749753997, val loss : 2.8811681472001927
+	 Train accuracy : 0.18735714285714286, val accuracy : 0.1755
+Start of 16 epoch
+	 Train loss : 2.8554941088268433, val loss : 2.8913262468572247
+	 Train accuracy : 0.175, val accuracy : 0.17016666666666666
+Start of 17 epoch
+	 Train loss : 2.8977119887649057, val loss : 2.810344134771149
+	 Train accuracy : 0.21214285714285713, val accuracy : 0.20133333333333334
+Start of 18 epoch
+	 Train loss : 2.783055525078044, val loss : 2.815920531673011
+	 Train accuracy : 0.19364285714285714, val accuracy : 0.18916666666666668
+Start of 19 epoch
+	 Train loss : 2.8231834552817925, val loss : 2.76364949992375
+	 Train accuracy : 0.2397857142857143, val accuracy : 0.23483333333333334
+Start of 20 epoch
+	 Train loss : 2.731754279216584, val loss : 2.742194695065531
+	 Train accuracy : 0.21035714285714285, val accuracy : 0.2075
+Start of 21 epoch
+	 Train loss : 2.7518129122982686, val loss : 2.705463350504445
+	 Train accuracy : 0.2517142857142857, val accuracy : 0.24916666666666668
+Start of 22 epoch
+	 Train loss : 2.673493753788892, val loss : 2.682362154017147
+	 Train accuracy : 0.22371428571428573, val accuracy : 0.21883333333333332
+Start of 23 epoch
+	 Train loss : 2.6931425635425015, val loss : 2.667411923513848
+	 Train accuracy : 0.25042857142857144, val accuracy : 0.247
+Start of 24 epoch
+	 Train loss : 2.6364897628144295, val loss : 2.6526126473322753
+	 Train accuracy : 0.21264285714285713, val accuracy : 0.22033333333333333
+Start of 25 epoch
+	 Train loss : 2.667370757826322, val loss : 2.6238489832692165
+	 Train accuracy : 0.2617857142857143, val accuracy : 0.25283333333333335
+Start of 26 epoch
+	 Train loss : 2.5912073653370054, val loss : 2.5849947072890544
+	 Train accuracy : 0.23, val accuracy : 0.238
+Start of 27 epoch
+	 Train loss : 2.5984140083468446, val loss : 2.5861199579995775
+	 Train accuracy : 0.27285714285714285, val accuracy : 0.2613333333333333
+Start of 28 epoch
+	 Train loss : 2.5512637822476694, val loss : 2.5419865996607616
+	 Train accuracy : 0.24214285714285713, val accuracy : 0.24766666666666667
+Start of 29 epoch
+	 Train loss : 2.5552990272004723, val loss : 2.55355876179578
+	 Train accuracy : 0.2840714285714286, val accuracy : 0.27366666666666667
+Start of 30 epoch
+	 Train loss : 2.5181991532138324, val loss : 2.5018228733246115
+	 Train accuracy : 0.25014285714285717, val accuracy : 0.25216666666666665
+Start of 31 epoch
+	 Train loss : 2.514903864318721, val loss : 2.522573095305918
+	 Train accuracy : 0.2968571428571429, val accuracy : 0.2861666666666667
+Start of 32 epoch
+	 Train loss : 2.485362288216154, val loss : 2.4658990826982055
+	 Train accuracy : 0.258, val accuracy : 0.261
+Start of 33 epoch
+	 Train loss : 2.478020625210289, val loss : 2.489458573417622
+	 Train accuracy : 0.3045, val accuracy : 0.2941666666666667
+Start of 34 epoch
+	 Train loss : 2.452172341478038, val loss : 2.431799740925241
+	 Train accuracy : 0.2737142857142857, val accuracy : 0.27666666666666667
+Start of 35 epoch
+	 Train loss : 2.444664308289597, val loss : 2.462418176493897
+	 Train accuracy : 0.3122857142857143, val accuracy : 0.30133333333333334
+Start of 36 epoch
+	 Train loss : 2.423575567966674, val loss : 2.3977622444603726
+	 Train accuracy : 0.2860714285714286, val accuracy : 0.28683333333333333
+Start of 37 epoch
+	 Train loss : 2.4097389891350036, val loss : 2.435096148668474
+	 Train accuracy : 0.32, val accuracy : 0.3105
+Start of 38 epoch
+	 Train loss : 2.396447736119964, val loss : 2.365418839023636
+	 Train accuracy : 0.29764285714285715, val accuracy : 0.297
+Start of 39 epoch
+	 Train loss : 2.377424384249832, val loss : 2.413061036530108
+	 Train accuracy : 0.32321428571428573, val accuracy : 0.31
+Start of 40 epoch
+	 Train loss : 2.372907207512758, val loss : 2.3552983193747097
+	 Train accuracy : 0.3226428571428571, val accuracy : 0.3225
+Start of 41 epoch
+	 Train loss : 2.3663018065959536, val loss : 2.393328197788021
+	 Train accuracy : 0.3311428571428571, val accuracy : 0.32166666666666666
+Start of 42 epoch
+	 Train loss : 2.353722871739784, val loss : 2.418923245645878
+	 Train accuracy : 0.2855714285714286, val accuracy : 0.2816666666666667
+Start of 43 epoch
+	 Train loss : 2.4312843748483153, val loss : 2.4252366720808944
+	 Train accuracy : 0.3177142857142857, val accuracy : 0.30866666666666664
+Start of 44 epoch
+	 Train loss : 2.3901731263465753, val loss : 2.3632286753792
+	 Train accuracy : 0.2832142857142857, val accuracy : 0.27416666666666667
+Start of 45 epoch
+	 Train loss : 2.3775794751734223, val loss : 2.453168189601811
+	 Train accuracy : 0.30057142857142854, val accuracy : 0.29083333333333333
+Start of 46 epoch
+	 Train loss : 2.415708205492691, val loss : 2.360786043602061
+	 Train accuracy : 0.29928571428571427, val accuracy : 0.2906666666666667
+Start of 47 epoch
+	 Train loss : 2.375593998983484, val loss : 2.466427053006173
+	 Train accuracy : 0.2967142857142857, val accuracy : 0.2866666666666667
+Start of 48 epoch
+	 Train loss : 2.4358036166240336, val loss : 2.379444536142934
+	 Train accuracy : 0.30742857142857144, val accuracy : 0.298
+Start of 49 epoch
+	 Train loss : 2.3784375362074193, val loss : 2.404147378203874
+	 Train accuracy : 0.32357142857142857, val accuracy : 0.31516666666666665
+Start of 50 epoch
+	 Train loss : 2.378881737324575, val loss : 2.3571529105004925
+	 Train accuracy : 0.32157142857142856, val accuracy : 0.31583333333333335
+Start of 51 epoch
+	 Train loss : 2.361857493330921, val loss : 2.3865770322323665
+	 Train accuracy : 0.3299285714285714, val accuracy : 0.3238333333333333
+Start of 52 epoch
+	 Train loss : 2.3599257075653703, val loss : 2.3360761609421736
+	 Train accuracy : 0.33235714285714285, val accuracy : 0.3293333333333333
+Start of 53 epoch
+	 Train loss : 2.342319835826267, val loss : 2.367256154895822
+	 Train accuracy : 0.33714285714285713, val accuracy : 0.3315
+Start of 54 epoch
+	 Train loss : 2.3401861218094235, val loss : 2.318267925442579
+	 Train accuracy : 0.3380714285714286, val accuracy : 0.3355
+Start of 55 epoch
+	 Train loss : 2.324513057489535, val loss : 2.352834026373502
+	 Train accuracy : 0.3412857142857143, val accuracy : 0.33466666666666667
+Start of 56 epoch
+	 Train loss : 2.325330526320486, val loss : 2.300927627018623
+	 Train accuracy : 0.34635714285714286, val accuracy : 0.3398333333333333
+Start of 57 epoch
+	 Train loss : 2.3079870419796906, val loss : 2.3380576706579532
+	 Train accuracy : 0.3465, val accuracy : 0.3396666666666667
+Start of 58 epoch
+	 Train loss : 2.3109170193125492, val loss : 2.2851871877629395
+	 Train accuracy : 0.35285714285714287, val accuracy : 0.3466666666666667
+Start of 59 epoch
+	 Train loss : 2.2917807116737428, val loss : 2.324982091646451
+	 Train accuracy : 0.34885714285714287, val accuracy : 0.3421666666666667
+Start of 60 epoch
+	 Train loss : 2.2978098930397164, val loss : 2.267827210649514
+	 Train accuracy : 0.357, val accuracy : 0.35133333333333333
+Start of 61 epoch
+	 Train loss : 2.2746373791666303, val loss : 2.3105606222480835
+	 Train accuracy : 0.3539285714285714, val accuracy : 0.347
+Start of 62 epoch
+	 Train loss : 2.2836476146880282, val loss : 2.252210688846636
+	 Train accuracy : 0.3648571428571429, val accuracy : 0.35683333333333334
+Start of 63 epoch
+	 Train loss : 2.2595818198953426, val loss : 2.295748057756013
+	 Train accuracy : 0.3575, val accuracy : 0.35083333333333333
+Start of 64 epoch
+	 Train loss : 2.2685362743620616, val loss : 2.2378567489195778
+	 Train accuracy : 0.3687857142857143, val accuracy : 0.3615
+Start of 65 epoch
+	 Train loss : 2.246235021032111, val loss : 2.283467968065226
+	 Train accuracy : 0.3613571428571429, val accuracy : 0.3535
+Start of 66 epoch
+	 Train loss : 2.256344026094604, val loss : 2.221687345980075
+	 Train accuracy : 0.3735, val accuracy : 0.366
+Start of 67 epoch
+	 Train loss : 2.229911265880351, val loss : 2.269919329458857
+	 Train accuracy : 0.3685, val accuracy : 0.35933333333333334
+Start of 68 epoch
+	 Train loss : 2.2433008831649937, val loss : 2.2066344828513573
+	 Train accuracy : 0.3801428571428571, val accuracy : 0.36966666666666664
+Start of 69 epoch
+	 Train loss : 2.213767934119027, val loss : 2.2567127781294745
+	 Train accuracy : 0.3702142857142857, val accuracy : 0.36283333333333334
+Start of 70 epoch
+	 Train loss : 2.231042896990663, val loss : 2.191351149147266
+	 Train accuracy : 0.38507142857142856, val accuracy : 0.376
+Start of 71 epoch
+	 Train loss : 2.1981236658909413, val loss : 2.2446603349026506
+	 Train accuracy : 0.3747857142857143, val accuracy : 0.36433333333333334
+Start of 72 epoch
+	 Train loss : 2.2195186465508763, val loss : 2.175955548211422
+	 Train accuracy : 0.3911428571428571, val accuracy : 0.383
+Start of 73 epoch
+	 Train loss : 2.1830967544572166, val loss : 2.23098902386346
+	 Train accuracy : 0.3767142857142857, val accuracy : 0.366
+Start of 74 epoch
+	 Train loss : 2.205791222746039, val loss : 2.1615335882662006
+	 Train accuracy : 0.39421428571428574, val accuracy : 0.38916666666666666
+Start of 75 epoch
+	 Train loss : 2.169920032740449, val loss : 2.2216437132890046
+	 Train accuracy : 0.3785, val accuracy : 0.36733333333333335
+Start of 76 epoch
+	 Train loss : 2.195647759882293, val loss : 2.149216680224462
+	 Train accuracy : 0.3957857142857143, val accuracy : 0.3915
+Start of 77 epoch
+	 Train loss : 2.157602563235731, val loss : 2.2104379626260866
+	 Train accuracy : 0.384, val accuracy : 0.37466666666666665
+Start of 78 epoch
+	 Train loss : 2.1855478343154817, val loss : 2.138070923453522
+	 Train accuracy : 0.4002857142857143, val accuracy : 0.39416666666666667
+Start of 79 epoch
+	 Train loss : 2.145290360898109, val loss : 2.1982648541989684
+	 Train accuracy : 0.38521428571428573, val accuracy : 0.375
+Start of 80 epoch
+	 Train loss : 2.1741120149143707, val loss : 2.126248431474205
+	 Train accuracy : 0.4040714285714286, val accuracy : 0.3988333333333333
+Start of 81 epoch
+	 Train loss : 2.1331214036072694, val loss : 2.1870342882626455
+	 Train accuracy : 0.38771428571428573, val accuracy : 0.379
+Start of 82 epoch
+	 Train loss : 2.163271226566517, val loss : 2.1144311727188847
+	 Train accuracy : 0.40735714285714286, val accuracy : 0.4013333333333333
+Start of 83 epoch
+	 Train loss : 2.121444305974829, val loss : 2.1769846347408053
+	 Train accuracy : 0.3902857142857143, val accuracy : 0.38216666666666665
+Start of 84 epoch
+	 Train loss : 2.1530646886466474, val loss : 2.1021926733020355
+	 Train accuracy : 0.409, val accuracy : 0.4025
+Start of 85 epoch
+	 Train loss : 2.108894092851343, val loss : 2.1644579280416294
+	 Train accuracy : 0.3959285714285714, val accuracy : 0.3888333333333333
+Start of 86 epoch
+	 Train loss : 2.142050663470928, val loss : 2.0879503859748527
+	 Train accuracy : 0.4137142857142857, val accuracy : 0.409
+Start of 87 epoch
+	 Train loss : 2.094919840811482, val loss : 2.1557269588370964
+	 Train accuracy : 0.40085714285714286, val accuracy : 0.39616666666666667
+Start of 88 epoch
+	 Train loss : 2.133399556951326, val loss : 2.077568254573117
+	 Train accuracy : 0.41635714285714287, val accuracy : 0.407
+Start of 89 epoch
+	 Train loss : 2.083787130059103, val loss : 2.1463412736899956
+	 Train accuracy : 0.4037142857142857, val accuracy : 0.39566666666666667
+Start of 90 epoch
+	 Train loss : 2.1243043239805974, val loss : 2.068988054337578
+	 Train accuracy : 0.41942857142857143, val accuracy : 0.4076666666666667
+Start of 91 epoch
+	 Train loss : 2.0734543591855026, val loss : 2.134562961126731
+	 Train accuracy : 0.40564285714285714, val accuracy : 0.3988333333333333
+Start of 92 epoch
+	 Train loss : 2.1136918011525867, val loss : 2.0593275801608053
+	 Train accuracy : 0.42414285714285715, val accuracy : 0.41333333333333333
+Start of 93 epoch
+	 Train loss : 2.0642858307317096, val loss : 2.1661614720022513
+	 Train accuracy : 0.3987142857142857, val accuracy : 0.3903333333333333
+Start of 94 epoch
+	 Train loss : 2.1487194414682063, val loss : 2.053561991441555
+	 Train accuracy : 0.4315, val accuracy : 0.4181666666666667
+Start of 95 epoch
+	 Train loss : 2.0567751997235715, val loss : 2.147259693617739
+	 Train accuracy : 0.40364285714285714, val accuracy : 0.39466666666666667
+Start of 96 epoch
+	 Train loss : 2.13073543595138, val loss : 2.0453353140239465
+	 Train accuracy : 0.4327857142857143, val accuracy : 0.4175
+Start of 97 epoch
+	 Train loss : 2.048050201124566, val loss : 2.1312609765740396
+	 Train accuracy : 0.40814285714285714, val accuracy : 0.3993333333333333
+Start of 98 epoch
+	 Train loss : 2.114234919906545, val loss : 2.037858775342979
+	 Train accuracy : 0.43457142857142855, val accuracy : 0.4186666666666667
+Start of 99 epoch
+	 Train loss : 2.040343771938062, val loss : 2.1158344557023603
+	 Train accuracy : 0.4132142857142857, val accuracy : 0.4041666666666667
+Start of 100 epoch
+	 Train loss : 2.0988637677794357, val loss : 2.0307724047228914
+	 Train accuracy : 0.43542857142857144, val accuracy : 0.41933333333333334
+Start of 101 epoch
+	 Train loss : 2.032904539147379, val loss : 2.101343391235584
+	 Train accuracy : 0.4164285714285714, val accuracy : 0.407
+Start of 102 epoch
+	 Train loss : 2.084534582702941, val loss : 2.022221216684578
+	 Train accuracy : 0.43442857142857144, val accuracy : 0.4215
+Start of 103 epoch
+	 Train loss : 2.0242144812285257, val loss : 2.0892068303450033
+	 Train accuracy : 0.41828571428571426, val accuracy : 0.4093333333333333
+Start of 104 epoch
+	 Train loss : 2.072200622702277, val loss : 2.0141837554819535
+	 Train accuracy : 0.43514285714285716, val accuracy : 0.42283333333333334
+Start of 105 epoch
+	 Train loss : 2.0153785946073577, val loss : 2.0767696020831488
+	 Train accuracy : 0.422, val accuracy : 0.4166666666666667
+Start of 106 epoch
+	 Train loss : 2.0600115230386344, val loss : 2.006805252411581
+	 Train accuracy : 0.4352857142857143, val accuracy : 0.425
+Start of 107 epoch
+	 Train loss : 2.006578012485977, val loss : 2.06635598139222
+	 Train accuracy : 0.42892857142857144, val accuracy : 0.4235
+Start of 108 epoch
+	 Train loss : 2.0503670592814416, val loss : 1.9980987816301337
+	 Train accuracy : 0.43842857142857145, val accuracy : 0.4265
+Start of 109 epoch
+	 Train loss : 1.9971548632853962, val loss : 2.056420619650553
+	 Train accuracy : 0.43257142857142855, val accuracy : 0.42716666666666664
+Start of 110 epoch
+	 Train loss : 2.040396445069954, val loss : 1.9892722079515428
+	 Train accuracy : 0.43992857142857145, val accuracy : 0.42933333333333334
+Start of 111 epoch
+	 Train loss : 1.9886665286492358, val loss : 2.0478124568612786
+	 Train accuracy : 0.43514285714285716, val accuracy : 0.4255
+Start of 112 epoch
+	 Train loss : 2.0313014243466867, val loss : 1.9805828294228018
+	 Train accuracy : 0.4426428571428571, val accuracy : 0.43133333333333335
+Start of 113 epoch
+	 Train loss : 1.9802128819829845, val loss : 2.0398192627277765
+	 Train accuracy : 0.43557142857142855, val accuracy : 0.42766666666666664
+Start of 114 epoch
+	 Train loss : 2.0230336025163065, val loss : 1.9724432379646024
+	 Train accuracy : 0.44421428571428573, val accuracy : 0.43266666666666664
+Start of 115 epoch
+	 Train loss : 1.972353003136648, val loss : 2.0309426362470346
+	 Train accuracy : 0.43835714285714283, val accuracy : 0.43333333333333335
+Start of 116 epoch
+	 Train loss : 2.014155644243761, val loss : 1.9634793831481117
+	 Train accuracy : 0.44671428571428573, val accuracy : 0.43583333333333335
+Start of 117 epoch
+	 Train loss : 1.9630482026489053, val loss : 2.0222567041028823
+	 Train accuracy : 0.43792857142857144, val accuracy : 0.4345
+Start of 118 epoch
+	 Train loss : 2.0057051589818533, val loss : 1.9553584114154725
+	 Train accuracy : 0.44907142857142857, val accuracy : 0.43816666666666665
+Start of 119 epoch
+	 Train loss : 1.9547458002504, val loss : 2.013945461767076
+	 Train accuracy : 0.44192857142857145, val accuracy : 0.44266666666666665
+Start of 120 epoch
+	 Train loss : 1.9974086986608275, val loss : 1.947517314940651
+	 Train accuracy : 0.45071428571428573, val accuracy : 0.44166666666666665
+Start of 121 epoch
+	 Train loss : 1.9469265047175073, val loss : 2.0055254326736254
+	 Train accuracy : 0.44342857142857145, val accuracy : 0.44233333333333336
+Start of 122 epoch
+	 Train loss : 1.9892021502728383, val loss : 1.9396399421019053
+	 Train accuracy : 0.4532857142857143, val accuracy : 0.44416666666666665
+Start of 123 epoch
+	 Train loss : 1.9389941018203618, val loss : 1.9977981004328103
+	 Train accuracy : 0.44421428571428573, val accuracy : 0.4455
+Start of 124 epoch
+	 Train loss : 1.9817301304078296, val loss : 1.9331126216594885
+	 Train accuracy : 0.4545, val accuracy : 0.44783333333333336
+Start of 125 epoch
+	 Train loss : 1.9318590338214978, val loss : 1.9903604603497718
+	 Train accuracy : 0.44692857142857145, val accuracy : 0.443
+Start of 126 epoch
+	 Train loss : 1.9740149440960821, val loss : 1.926954462859498
+	 Train accuracy : 0.4557857142857143, val accuracy : 0.44683333333333336
+Start of 127 epoch
+	 Train loss : 1.9256271449766411, val loss : 1.9811179030783796
+	 Train accuracy : 0.44892857142857145, val accuracy : 0.44633333333333336
+Start of 128 epoch
+	 Train loss : 1.9651622473571342, val loss : 1.9205518271991073
+	 Train accuracy : 0.45814285714285713, val accuracy : 0.452
+Start of 129 epoch
+	 Train loss : 1.9197707948923943, val loss : 1.9727692634628893
+	 Train accuracy : 0.4529285714285714, val accuracy : 0.4505
+Start of 130 epoch
+	 Train loss : 1.9567820721344342, val loss : 1.9136692397153292
+	 Train accuracy : 0.45971428571428574, val accuracy : 0.45466666666666666
+Start of 131 epoch
+	 Train loss : 1.9131297248969326, val loss : 1.9649590138338817
+	 Train accuracy : 0.45371428571428574, val accuracy : 0.45516666666666666
+Start of 132 epoch
+	 Train loss : 1.9494775284117962, val loss : 1.9066716970133841
+	 Train accuracy : 0.46064285714285713, val accuracy : 0.45616666666666666
+Start of 133 epoch
+	 Train loss : 1.9065541993493798, val loss : 1.9586850630903692
+	 Train accuracy : 0.4517857142857143, val accuracy : 0.45366666666666666
+Start of 134 epoch
+	 Train loss : 1.942794250873591, val loss : 1.8988828615545725
+	 Train accuracy : 0.4635714285714286, val accuracy : 0.4575
+Start of 135 epoch
+	 Train loss : 1.8982644477264345, val loss : 1.9506479183741958
+	 Train accuracy : 0.45571428571428574, val accuracy : 0.4605
+Start of 136 epoch
+	 Train loss : 1.9361828080443553, val loss : 1.8934036179304652
+	 Train accuracy : 0.46535714285714286, val accuracy : 0.4585
+Start of 137 epoch
+	 Train loss : 1.8920955374596633, val loss : 1.9444940231982206
+	 Train accuracy : 0.457, val accuracy : 0.459
+Start of 138 epoch
+	 Train loss : 1.9302239633864455, val loss : 1.888118370574483
+	 Train accuracy : 0.4662142857142857, val accuracy : 0.461
+Start of 139 epoch
+	 Train loss : 1.8866173110161293, val loss : 1.9375159920811724
+	 Train accuracy : 0.4584285714285714, val accuracy : 0.45916666666666667
+Start of 140 epoch
+	 Train loss : 1.923321109421791, val loss : 1.8826274177905487
+	 Train accuracy : 0.4679285714285714, val accuracy : 0.464
+Start of 141 epoch
+	 Train loss : 1.8813450750005782, val loss : 1.9295298525555626
+	 Train accuracy : 0.4617142857142857, val accuracy : 0.4615
+Start of 142 epoch
+	 Train loss : 1.9156164229208688, val loss : 1.8774880139981844
+	 Train accuracy : 0.4705, val accuracy : 0.46366666666666667
+Start of 143 epoch
+	 Train loss : 1.8759378537189406, val loss : 1.9227602569370161
+	 Train accuracy : 0.46635714285714286, val accuracy : 0.4663333333333333
+Start of 144 epoch
+	 Train loss : 1.909351605622943, val loss : 1.872050888906205
+	 Train accuracy : 0.47264285714285714, val accuracy : 0.4665
+Start of 145 epoch
+	 Train loss : 1.8703130617003727, val loss : 1.9161974702013405
+	 Train accuracy : 0.4665714285714286, val accuracy : 0.4696666666666667
+Start of 146 epoch
+	 Train loss : 1.9028668968330928, val loss : 1.8677789384141281
+	 Train accuracy : 0.47, val accuracy : 0.4646666666666667
+Start of 147 epoch
+	 Train loss : 1.8663025749936641, val loss : 1.9094677944552374
+	 Train accuracy : 0.46564285714285714, val accuracy : 0.4676666666666667
+Start of 148 epoch
+	 Train loss : 1.895558349245481, val loss : 1.8634701256788675
+	 Train accuracy : 0.4709285714285714, val accuracy : 0.4663333333333333
+Start of 149 epoch
+	 Train loss : 1.8620434865960793, val loss : 1.9032421259152315
+	 Train accuracy : 0.46635714285714286, val accuracy : 0.4681666666666667
+Start of 150 epoch
+	 Train loss : 1.8897328898833905, val loss : 1.8586434583514413
+	 Train accuracy : 0.4727142857142857, val accuracy : 0.4685
+Start of 151 epoch
+	 Train loss : 1.8571107923726136, val loss : 1.8978054200847096
+	 Train accuracy : 0.4692142857142857, val accuracy : 0.4716666666666667
+Start of 152 epoch
+	 Train loss : 1.8843685557110943, val loss : 1.8548092682045754
+	 Train accuracy : 0.4735714285714286, val accuracy : 0.4691666666666667
+Start of 153 epoch
+	 Train loss : 1.8531096849316075, val loss : 1.8911787136286282
+	 Train accuracy : 0.4722857142857143, val accuracy : 0.473
+Start of 154 epoch
+	 Train loss : 1.8779572048355333, val loss : 1.8513333742644535
+	 Train accuracy : 0.4752857142857143, val accuracy : 0.4698333333333333
+Start of 155 epoch
+	 Train loss : 1.8494710585692824, val loss : 1.8859076414831015
+	 Train accuracy : 0.4715714285714286, val accuracy : 0.472
+Start of 156 epoch
+	 Train loss : 1.8730561255548792, val loss : 1.847422289206838
+	 Train accuracy : 0.4759285714285714, val accuracy : 0.47
+Start of 157 epoch
+	 Train loss : 1.845535456682242, val loss : 1.8790836521970193
+	 Train accuracy : 0.473, val accuracy : 0.4755
+Start of 158 epoch
+	 Train loss : 1.8661582601772515, val loss : 1.8409095431009057
+	 Train accuracy : 0.4772857142857143, val accuracy : 0.47333333333333333
+Start of 159 epoch
+	 Train loss : 1.8389210140636154, val loss : 1.8716535602747557
+	 Train accuracy : 0.47878571428571426, val accuracy : 0.4796666666666667
+Start of 160 epoch
+	 Train loss : 1.8594008003428952, val loss : 1.8349279726715773
+	 Train accuracy : 0.47985714285714287, val accuracy : 0.4755
+Start of 161 epoch
+	 Train loss : 1.8328149831103269, val loss : 1.864280805440709
+	 Train accuracy : 0.47835714285714287, val accuracy : 0.48
+Start of 162 epoch
+	 Train loss : 1.8520466896100518, val loss : 1.8294151648043013
+	 Train accuracy : 0.4818571428571429, val accuracy : 0.47733333333333333
+Start of 163 epoch
+	 Train loss : 1.827850638764372, val loss : 1.8593810654736114
+	 Train accuracy : 0.4787142857142857, val accuracy : 0.479
+Start of 164 epoch
+	 Train loss : 1.846813607826781, val loss : 1.8256110908436907
+	 Train accuracy : 0.48192857142857143, val accuracy : 0.47883333333333333
+Start of 165 epoch
+	 Train loss : 1.8239548245631472, val loss : 1.8537701758311318
+	 Train accuracy : 0.47828571428571426, val accuracy : 0.47983333333333333
+Start of 166 epoch
+	 Train loss : 1.8416320773250292, val loss : 1.8204056735505647
+	 Train accuracy : 0.484, val accuracy : 0.4835
+Start of 167 epoch
+	 Train loss : 1.819163942422477, val loss : 1.8493120598697035
+	 Train accuracy : 0.4764285714285714, val accuracy : 0.4765
+Start of 168 epoch
+	 Train loss : 1.8375016045416768, val loss : 1.876232838122761
+	 Train accuracy : 0.4674285714285714, val accuracy : 0.4711666666666667
+Start of 169 epoch
+	 Train loss : 1.8751380543142568, val loss : 1.9655148038644048
+	 Train accuracy : 0.43092857142857144, val accuracy : 0.42783333333333334
+Start of 170 epoch
+	 Train loss : 1.957674262123059, val loss : 2.0470919780457097
+	 Train accuracy : 0.43507142857142855, val accuracy : 0.4211666666666667
+Start of 171 epoch
+	 Train loss : 2.0071890798620444, val loss : 2.0215038533371974
+	 Train accuracy : 0.3866428571428571, val accuracy : 0.3883333333333333
+Start of 172 epoch
+	 Train loss : 2.0392837189840662, val loss : 2.071409094913806
+	 Train accuracy : 0.4298571428571429, val accuracy : 0.4225
+Start of 173 epoch
+	 Train loss : 2.0362229005172154, val loss : 2.0563532974824694
+	 Train accuracy : 0.4112857142857143, val accuracy : 0.414
+Start of 174 epoch
+	 Train loss : 2.0825627012555454, val loss : 1.9971553014562566
+	 Train accuracy : 0.4482857142857143, val accuracy : 0.44233333333333336
+Start of 175 epoch
+	 Train loss : 1.9674185870660987, val loss : 2.0375865170985468
+	 Train accuracy : 0.43692857142857144, val accuracy : 0.4415
+Start of 176 epoch
+	 Train loss : 2.064167792751137, val loss : 1.9588964061714231
+	 Train accuracy : 0.4645, val accuracy : 0.454
+Start of 177 epoch
+	 Train loss : 1.9304302211468793, val loss : 1.9957637535245318
+	 Train accuracy : 0.43957142857142856, val accuracy : 0.4435
+Start of 178 epoch
+	 Train loss : 2.0233282234721144, val loss : 1.9518771762251141
+	 Train accuracy : 0.4842142857142857, val accuracy : 0.469
+Start of 179 epoch
+	 Train loss : 1.926832358391043, val loss : 1.9829155227779538
+	 Train accuracy : 0.4472857142857143, val accuracy : 0.4508333333333333
+Start of 180 epoch
+	 Train loss : 2.0051590108457185, val loss : 1.9765873232309101
+	 Train accuracy : 0.47964285714285715, val accuracy : 0.4691666666666667
+Start of 181 epoch
+	 Train loss : 1.954633425769487, val loss : 1.9381141216855822
+	 Train accuracy : 0.455, val accuracy : 0.45816666666666667
+Start of 182 epoch
+	 Train loss : 1.9611346228445228, val loss : 1.9792194673551278
+	 Train accuracy : 0.48428571428571426, val accuracy : 0.4746666666666667
+Start of 183 epoch
+	 Train loss : 1.9582079974206055, val loss : 1.9036559185392965
+	 Train accuracy : 0.46314285714285713, val accuracy : 0.4646666666666667
+Start of 184 epoch
+	 Train loss : 1.9258029724899748, val loss : 1.9760268964592438
+	 Train accuracy : 0.48314285714285715, val accuracy : 0.4728333333333333
+Start of 185 epoch
+	 Train loss : 1.9551840839831383, val loss : 1.881318766630677
+	 Train accuracy : 0.4689285714285714, val accuracy : 0.47
+Start of 186 epoch
+	 Train loss : 1.9024485485322298, val loss : 1.9707272562215843
+	 Train accuracy : 0.4805714285714286, val accuracy : 0.4711666666666667
+Start of 187 epoch
+	 Train loss : 1.949651545496203, val loss : 1.8612452232746415
+	 Train accuracy : 0.4735714285714286, val accuracy : 0.4751666666666667
+Start of 188 epoch
+	 Train loss : 1.8814231502279772, val loss : 1.9647944024535888
+	 Train accuracy : 0.47914285714285715, val accuracy : 0.4703333333333333
+Start of 189 epoch
+	 Train loss : 1.943847877951129, val loss : 1.842742155894598
+	 Train accuracy : 0.4787142857142857, val accuracy : 0.4811666666666667
+Start of 190 epoch
+	 Train loss : 1.8614182680144082, val loss : 1.9569631406191452
+	 Train accuracy : 0.4775, val accuracy : 0.4656666666666667
+Start of 191 epoch
+	 Train loss : 1.9360806271466926, val loss : 1.8263966904964977
+	 Train accuracy : 0.4830714285714286, val accuracy : 0.48633333333333334
+Start of 192 epoch
+	 Train loss : 1.8442870727696385, val loss : 1.9490038347455847
+	 Train accuracy : 0.47685714285714287, val accuracy : 0.4656666666666667
+Start of 193 epoch
+	 Train loss : 1.928408604801437, val loss : 1.8115193737595627
+	 Train accuracy : 0.48628571428571427, val accuracy : 0.48966666666666664
+Start of 194 epoch
+	 Train loss : 1.8285468096347217, val loss : 1.9410017597596567
+	 Train accuracy : 0.4750714285714286, val accuracy : 0.466
+Start of 195 epoch
+	 Train loss : 1.9208359491273923, val loss : 1.7974774867790815
+	 Train accuracy : 0.48942857142857144, val accuracy : 0.49383333333333335
+Start of 196 epoch
+	 Train loss : 1.8139698173396033, val loss : 1.9336926914368435
+	 Train accuracy : 0.4760714285714286, val accuracy : 0.4675
+Start of 197 epoch
+	 Train loss : 1.91390132834151, val loss : 1.7835710173190364
+	 Train accuracy : 0.4937857142857143, val accuracy : 0.49883333333333335
+Start of 198 epoch
+	 Train loss : 1.798741100021281, val loss : 1.9253524629818175
+	 Train accuracy : 0.4772142857142857, val accuracy : 0.4668333333333333
+Start of 199 epoch
+	 Train loss : 1.9055922115151513, val loss : 1.7709248477714754
+	 Train accuracy : 0.49735714285714283, val accuracy : 0.5051666666666667
+Start of 200 epoch
+	 Train loss : 1.7851198439758553, val loss : 1.9154460760380516
+	 Train accuracy : 0.47885714285714287, val accuracy : 0.4681666666666667
+Start of 201 epoch
+	 Train loss : 1.896100552492894, val loss : 1.757506302651185
+	 Train accuracy : 0.49935714285714283, val accuracy : 0.5068333333333334
+Start of 202 epoch
+	 Train loss : 1.7708579019419273, val loss : 1.9059568000463751
+	 Train accuracy : 0.47978571428571426, val accuracy : 0.4696666666666667
+Start of 203 epoch
+	 Train loss : 1.8868041113128668, val loss : 1.746092864661266
+	 Train accuracy : 0.5028571428571429, val accuracy : 0.5111666666666667
+Start of 204 epoch
+	 Train loss : 1.7585522229719344, val loss : 1.8957414600717162
+	 Train accuracy : 0.483, val accuracy : 0.4713333333333333
+Start of 205 epoch
+	 Train loss : 1.877109121957626, val loss : 1.734684083127586
+	 Train accuracy : 0.5048571428571429, val accuracy : 0.5136666666666667
+Start of 206 epoch
+	 Train loss : 1.74666632797805, val loss : 1.8859824050575025
+	 Train accuracy : 0.4818571428571429, val accuracy : 0.4701666666666667
+Start of 207 epoch
+	 Train loss : 1.8671477789981332, val loss : 1.860645846603494
+	 Train accuracy : 0.4617857142857143, val accuracy : 0.468
+Start of 208 epoch
+	 Train loss : 1.8795970405807587, val loss : 1.8584606593703672
+	 Train accuracy : 0.46885714285714286, val accuracy : 0.4613333333333333
+Start of 209 epoch
+	 Train loss : 1.8384322390775316, val loss : 1.8519550727863965
+	 Train accuracy : 0.46585714285714286, val accuracy : 0.4723333333333333
+Start of 210 epoch
+	 Train loss : 1.8712226412652084, val loss : 1.913638904864953
+	 Train accuracy : 0.4325, val accuracy : 0.42483333333333334
+Start of 211 epoch
+	 Train loss : 1.8943451070590434, val loss : 1.8162909713709923
+	 Train accuracy : 0.4767142857142857, val accuracy : 0.4891666666666667
+Start of 212 epoch
+	 Train loss : 1.8368856868834145, val loss : 1.9035543134493849
+	 Train accuracy : 0.4427857142857143, val accuracy : 0.43183333333333335
+Start of 213 epoch
+	 Train loss : 1.8842842016948997, val loss : 1.8060747577457443
+	 Train accuracy : 0.48214285714285715, val accuracy : 0.49266666666666664
+Start of 214 epoch
+	 Train loss : 1.8258973571913866, val loss : 1.8944401089115515
+	 Train accuracy : 0.44535714285714284, val accuracy : 0.43333333333333335
+Start of 215 epoch
+	 Train loss : 1.8750673917974907, val loss : 1.7961045913215146
+	 Train accuracy : 0.48692857142857143, val accuracy : 0.49666666666666665
+Start of 216 epoch
+	 Train loss : 1.8150415927139134, val loss : 1.8867672836524123
+	 Train accuracy : 0.44657142857142856, val accuracy : 0.43566666666666665
+Start of 217 epoch
+	 Train loss : 1.8669277249001166, val loss : 1.7879444303351284
+	 Train accuracy : 0.48792857142857143, val accuracy : 0.49816666666666665
+Start of 218 epoch
+	 Train loss : 1.8067818442856765, val loss : 1.8794336343516207
+	 Train accuracy : 0.4476428571428571, val accuracy : 0.4365
+Start of 219 epoch
+	 Train loss : 1.8597756535888137, val loss : 1.779968122820331
+	 Train accuracy : 0.49057142857142855, val accuracy : 0.49916666666666665
+Start of 220 epoch
+	 Train loss : 1.7980533503103526, val loss : 1.8733761965852473
+	 Train accuracy : 0.44792857142857145, val accuracy : 0.43566666666666665
+Start of 221 epoch
+	 Train loss : 1.8534715110883364, val loss : 1.7726203586647256
+	 Train accuracy : 0.49128571428571427, val accuracy : 0.5008333333333334
+Start of 222 epoch
+	 Train loss : 1.790468333313701, val loss : 1.8666968763274312
+	 Train accuracy : 0.4487857142857143, val accuracy : 0.43666666666666665
+Start of 223 epoch
+	 Train loss : 1.847042493677696, val loss : 1.7659928270364784
+	 Train accuracy : 0.4933571428571429, val accuracy : 0.5036666666666667
+Start of 224 epoch
+	 Train loss : 1.783033615234742, val loss : 1.8611100952537218
+	 Train accuracy : 0.45057142857142857, val accuracy : 0.439
+Start of 225 epoch
+	 Train loss : 1.8412055704033043, val loss : 1.7594269256373525
+	 Train accuracy : 0.49585714285714283, val accuracy : 0.5048333333333334
+Start of 226 epoch
+	 Train loss : 1.7762628357356707, val loss : 1.854854174704669
+	 Train accuracy : 0.45107142857142857, val accuracy : 0.44183333333333336
+Start of 227 epoch
+	 Train loss : 1.83527956967983, val loss : 1.753398978955513
+	 Train accuracy : 0.49692857142857144, val accuracy : 0.5051666666666667
+Start of 228 epoch
+	 Train loss : 1.7698116492800988, val loss : 1.8489330096696968
+	 Train accuracy : 0.45207142857142857, val accuracy : 0.44266666666666665
+Start of 229 epoch
+	 Train loss : 1.8297167058166106, val loss : 1.7478932799894993
+	 Train accuracy : 0.4977142857142857, val accuracy : 0.506
+Start of 230 epoch
+	 Train loss : 1.7637541396734626, val loss : 1.8433537421043376
+	 Train accuracy : 0.453, val accuracy : 0.44333333333333336
+Start of 231 epoch
+	 Train loss : 1.8241730962050233, val loss : 1.741867339335985
+	 Train accuracy : 0.49914285714285717, val accuracy : 0.5068333333333334
+Start of 232 epoch
+	 Train loss : 1.7573289753163546, val loss : 1.8378947926439333
+	 Train accuracy : 0.45407142857142857, val accuracy : 0.44616666666666666
+Start of 233 epoch
+	 Train loss : 1.8189718965653419, val loss : 1.7368402750650822
+	 Train accuracy : 0.5006428571428572, val accuracy : 0.5083333333333333
+Start of 234 epoch
+	 Train loss : 1.7518828766712278, val loss : 1.8315229320178965
+	 Train accuracy : 0.4555, val accuracy : 0.44783333333333336
+Start of 235 epoch
+	 Train loss : 1.8131353871106992, val loss : 1.730334808464689
+	 Train accuracy : 0.5028571428571429, val accuracy : 0.5086666666666667
+Start of 236 epoch
+	 Train loss : 1.7448146454621414, val loss : 1.8268544159979496
+	 Train accuracy : 0.45621428571428574, val accuracy : 0.44816666666666666
+Start of 237 epoch
+	 Train loss : 1.8084342292371816, val loss : 1.7252870428981053
+	 Train accuracy : 0.5025, val accuracy : 0.509
+Start of 238 epoch
+	 Train loss : 1.739345513354395, val loss : 1.8214976061935673
+	 Train accuracy : 0.4575, val accuracy : 0.44866666666666666
+Start of 239 epoch
+	 Train loss : 1.8033058748252477, val loss : 1.7193445626733377
+	 Train accuracy : 0.5038571428571429, val accuracy : 0.5101666666666667
+Start of 240 epoch
+	 Train loss : 1.732944199803005, val loss : 1.8159775468299895
+	 Train accuracy : 0.4590714285714286, val accuracy : 0.44966666666666666
+Start of 241 epoch
+	 Train loss : 1.7979444738504466, val loss : 1.7137019307786565
+	 Train accuracy : 0.5058571428571429, val accuracy : 0.512
+Start of 242 epoch
+	 Train loss : 1.7266437571071422, val loss : 1.8093112111967318
+	 Train accuracy : 0.46235714285714286, val accuracy : 0.45166666666666666
+Start of 243 epoch
+	 Train loss : 1.791888396634899, val loss : 1.7083354680855856
+	 Train accuracy : 0.508, val accuracy : 0.515
+Start of 244 epoch
+	 Train loss : 1.7209620062219761, val loss : 1.8049495991791589
+	 Train accuracy : 0.4637142857142857, val accuracy : 0.45266666666666666
+Start of 245 epoch
+	 Train loss : 1.787739241976648, val loss : 1.7034767227827667
+	 Train accuracy : 0.5075, val accuracy : 0.5118333333333334
+Start of 246 epoch
+	 Train loss : 1.7154350896730317, val loss : 1.801150125142016
+	 Train accuracy : 0.46414285714285713, val accuracy : 0.4538333333333333
+Start of 247 epoch
+	 Train loss : 1.7838087528449784, val loss : 1.6971786036297134
+	 Train accuracy : 0.5098571428571429, val accuracy : 0.5143333333333333
+Start of 248 epoch
+	 Train loss : 1.7087556877689216, val loss : 1.7967386233470855
+	 Train accuracy : 0.4667142857142857, val accuracy : 0.4555
+Start of 249 epoch
+	 Train loss : 1.7797580388520329, val loss : 1.6916515681910917
+	 Train accuracy : 0.5119285714285714, val accuracy : 0.5146666666666667
+Start of 250 epoch
+	 Train loss : 1.7025603105616491, val loss : 1.7925109688554761
+	 Train accuracy : 0.4674285714285714, val accuracy : 0.4555
+Start of 251 epoch
+	 Train loss : 1.7756464824264417, val loss : 1.6864202335215315
+	 Train accuracy : 0.5142857142857142, val accuracy : 0.5161666666666667
+Start of 252 epoch
+	 Train loss : 1.6969830315861218, val loss : 1.7879024242987414
+	 Train accuracy : 0.46935714285714286, val accuracy : 0.45866666666666667
+Start of 253 epoch
+	 Train loss : 1.771510452950122, val loss : 1.6813671922012527
+	 Train accuracy : 0.5160714285714286, val accuracy : 0.517
+Start of 254 epoch
+	 Train loss : 1.6911961188091915, val loss : 1.782268869044089
+	 Train accuracy : 0.4730714285714286, val accuracy : 0.46266666666666667
+Start of 255 epoch
+	 Train loss : 1.766483608534242, val loss : 1.6762990889971006
+	 Train accuracy : 0.5177857142857143, val accuracy : 0.5201666666666667
+Start of 256 epoch
+	 Train loss : 1.6857286360054455, val loss : 1.7784817747090214
+	 Train accuracy : 0.4725, val accuracy : 0.4605
+Start of 257 epoch
+	 Train loss : 1.7623387991856112, val loss : 1.6707101639409507
+	 Train accuracy : 0.5177142857142857, val accuracy : 0.5213333333333333
+Start of 258 epoch
+	 Train loss : 1.6803206184212305, val loss : 1.7735501774447884
+	 Train accuracy : 0.4790714285714286, val accuracy : 0.468
+Start of 259 epoch
+	 Train loss : 1.7579857882516285, val loss : 1.6655933809425296
+	 Train accuracy : 0.5197142857142857, val accuracy : 0.5233333333333333
+Start of 260 epoch
+	 Train loss : 1.6742229637128205, val loss : 1.769005621299656
+	 Train accuracy : 0.47785714285714287, val accuracy : 0.4675
+Start of 261 epoch
+	 Train loss : 1.7535857469630922, val loss : 1.6606343963238972
+	 Train accuracy : 0.5210714285714285, val accuracy : 0.524
+Start of 262 epoch
+	 Train loss : 1.6687785914147992, val loss : 1.765051242781992
+	 Train accuracy : 0.4774285714285714, val accuracy : 0.4678333333333333
+Start of 263 epoch
+	 Train loss : 1.749772541029743, val loss : 1.6547884754640456
+	 Train accuracy : 0.5240714285714285, val accuracy : 0.5251666666666667
+Start of 264 epoch
+	 Train loss : 1.6624981454648615, val loss : 1.7608521395321703
+	 Train accuracy : 0.4818571428571429, val accuracy : 0.4728333333333333
+Start of 265 epoch
+	 Train loss : 1.7461018223811555, val loss : 1.649373941360373
+	 Train accuracy : 0.5233571428571429, val accuracy : 0.5278333333333334
+Start of 266 epoch
+	 Train loss : 1.6560276806633965, val loss : 1.7576483591296785
+	 Train accuracy : 0.4815, val accuracy : 0.4731666666666667
+Start of 267 epoch
+	 Train loss : 1.7426607801807639, val loss : 1.6430471790911643
+	 Train accuracy : 0.5249285714285714, val accuracy : 0.5288333333333334
+Start of 268 epoch
+	 Train loss : 1.6494695191708517, val loss : 1.7550666908089756
+	 Train accuracy : 0.47985714285714287, val accuracy : 0.473
+Start of 269 epoch
+	 Train loss : 1.7398535443784588, val loss : 1.6383706499908413
+	 Train accuracy : 0.5247857142857143, val accuracy : 0.5286666666666666
+Start of 270 epoch
+	 Train loss : 1.6446773457296242, val loss : 1.750573350281443
+	 Train accuracy : 0.4807142857142857, val accuracy : 0.4723333333333333
+Start of 271 epoch
+	 Train loss : 1.7356139209072368, val loss : 1.6344973233968316
+	 Train accuracy : 0.5266428571428572, val accuracy : 0.5306666666666666
+Start of 272 epoch
+	 Train loss : 1.640202220708846, val loss : 1.7464227208400027
+	 Train accuracy : 0.4817142857142857, val accuracy : 0.4736666666666667
+Start of 273 epoch
+	 Train loss : 1.7318195656145319, val loss : 1.6296468078014017
+	 Train accuracy : 0.5278571428571428, val accuracy : 0.5313333333333333
+Start of 274 epoch
+	 Train loss : 1.6351670144864316, val loss : 1.7423084403971187
+	 Train accuracy : 0.48392857142857143, val accuracy : 0.4761666666666667
+Start of 275 epoch
+	 Train loss : 1.7279626096501943, val loss : 1.6249667496803604
+	 Train accuracy : 0.5284285714285715, val accuracy : 0.5328333333333334
+Start of 276 epoch
+	 Train loss : 1.6301522733009968, val loss : 1.7385093435891645
+	 Train accuracy : 0.485, val accuracy : 0.47683333333333333
+Start of 277 epoch
+	 Train loss : 1.7244135311690048, val loss : 1.6204268132070732
+	 Train accuracy : 0.5298571428571428, val accuracy : 0.533
+Start of 278 epoch
+	 Train loss : 1.6254816959234684, val loss : 1.7338463686290746
+	 Train accuracy : 0.4865, val accuracy : 0.47883333333333333
+Start of 279 epoch
+	 Train loss : 1.7202578073023016, val loss : 1.6160314503617528
+	 Train accuracy : 0.5308571428571428, val accuracy : 0.5353333333333333
+Start of 280 epoch
+	 Train loss : 1.6202349259502693, val loss : 1.7291330644960574
+	 Train accuracy : 0.4868571428571429, val accuracy : 0.4791666666666667
+Start of 281 epoch
+	 Train loss : 1.715653079652463, val loss : 1.6120778805773297
+	 Train accuracy : 0.5323571428571429, val accuracy : 0.5356666666666666
+Start of 282 epoch
+	 Train loss : 1.6161162617474956, val loss : 1.725725024279534
+	 Train accuracy : 0.4877142857142857, val accuracy : 0.47983333333333333
+Start of 283 epoch
+	 Train loss : 1.7122231764466138, val loss : 1.6078517866421411
+	 Train accuracy : 0.5341428571428571, val accuracy : 0.537
+Start of 284 epoch
+	 Train loss : 1.6113735032742373, val loss : 1.7185013944622327
+	 Train accuracy : 0.48978571428571427, val accuracy : 0.4831666666666667
+Start of 285 epoch
+	 Train loss : 1.7056849645996564, val loss : 1.6020521787784343
+	 Train accuracy : 0.5346428571428572, val accuracy : 0.5388333333333334
+Start of 286 epoch
+	 Train loss : 1.6048878473251875, val loss : 1.7135437817811305
+	 Train accuracy : 0.4918571428571429, val accuracy : 0.4845
+Start of 287 epoch
+	 Train loss : 1.7001973360147606, val loss : 1.5973158529398643
+	 Train accuracy : 0.538, val accuracy : 0.5418333333333333
+Start of 288 epoch
+	 Train loss : 1.5998069177813676, val loss : 1.7085223703095354
+	 Train accuracy : 0.4937857142857143, val accuracy : 0.4861666666666667
+Start of 289 epoch
+	 Train loss : 1.6957593180276793, val loss : 1.5918274586237542
+	 Train accuracy : 0.5375, val accuracy : 0.5415
+Start of 290 epoch
+	 Train loss : 1.5937474560753266, val loss : 1.7039859418141476
+	 Train accuracy : 0.4945, val accuracy : 0.4876666666666667
+Start of 291 epoch
+	 Train loss : 1.69092356450324, val loss : 1.5869382091039725
+	 Train accuracy : 0.5383571428571429, val accuracy : 0.5438333333333333
+Start of 292 epoch
+	 Train loss : 1.588260467261595, val loss : 1.6993033668422695
+	 Train accuracy : 0.4972857142857143, val accuracy : 0.4895
+Start of 293 epoch
+	 Train loss : 1.685920623299721, val loss : 1.582442197540664
+	 Train accuracy : 0.5412857142857143, val accuracy : 0.547
+Start of 294 epoch
+	 Train loss : 1.5830454386614863, val loss : 1.6940078376466838
+	 Train accuracy : 0.49764285714285716, val accuracy : 0.488
+Start of 295 epoch
+	 Train loss : 1.6811012690263318, val loss : 1.5773078726464003
+	 Train accuracy : 0.5411428571428571, val accuracy : 0.5476666666666666
+Start of 296 epoch
+	 Train loss : 1.5775798899002396, val loss : 1.6889682900112
+	 Train accuracy : 0.4997857142857143, val accuracy : 0.49066666666666664
+Start of 297 epoch
+	 Train loss : 1.6758638919111435, val loss : 1.5725032311605107
+	 Train accuracy : 0.5447142857142857, val accuracy : 0.5501666666666667
+Start of 298 epoch
+	 Train loss : 1.572393008846785, val loss : 1.6842433378708725
+	 Train accuracy : 0.49935714285714283, val accuracy : 0.49066666666666664
+Start of 299 epoch
+	 Train loss : 1.671556341907392, val loss : 1.5681786180444965
+	 Train accuracy : 0.5437857142857143, val accuracy : 0.5495
+Start of 300 epoch
+	 Train loss : 1.5668856145938106, val loss : 1.6790684121655477
+	 Train accuracy : 0.5011428571428571, val accuracy : 0.4935
+Start of 301 epoch
+	 Train loss : 1.665807843375907, val loss : 1.563567835840582
+	 Train accuracy : 0.5469285714285714, val accuracy : 0.5541666666666667
+Start of 302 epoch
+	 Train loss : 1.5619247456861791, val loss : 1.674654259647635
+	 Train accuracy : 0.5026428571428572, val accuracy : 0.49266666666666664
+Start of 303 epoch
+	 Train loss : 1.661069444483423, val loss : 1.5585165777697543
+	 Train accuracy : 0.5482857142857143, val accuracy : 0.5531666666666667
+Start of 304 epoch
+	 Train loss : 1.5556628798071004, val loss : 1.6689654906535376
+	 Train accuracy : 0.5064285714285715, val accuracy : 0.49633333333333335
+Start of 305 epoch
+	 Train loss : 1.6554688866973064, val loss : 1.553352906835818
+	 Train accuracy : 0.551, val accuracy : 0.5565
+Start of 306 epoch
+	 Train loss : 1.550003669628054, val loss : 1.6611064224106846
+	 Train accuracy : 0.5049285714285714, val accuracy : 0.4965
+Start of 307 epoch
+	 Train loss : 1.6489983310951744, val loss : 1.547333871468617
+	 Train accuracy : 0.5531428571428572, val accuracy : 0.5591666666666667
+Start of 308 epoch
+	 Train loss : 1.5439853235102643, val loss : 1.656892377129073
+	 Train accuracy : 0.5056428571428572, val accuracy : 0.49716666666666665
+Start of 309 epoch
+	 Train loss : 1.6441427461029638, val loss : 1.5428745185071076
+	 Train accuracy : 0.5559285714285714, val accuracy : 0.5605
+Start of 310 epoch
+	 Train loss : 1.5382271481255931, val loss : 1.652546443070496
+	 Train accuracy : 0.5078571428571429, val accuracy : 0.49916666666666665
+Start of 311 epoch
+	 Train loss : 1.639371509038565, val loss : 1.5381433889082425
+	 Train accuracy : 0.5560714285714285, val accuracy : 0.561
+Start of 312 epoch
+	 Train loss : 1.532932544808302, val loss : 1.6482027699386348
+	 Train accuracy : 0.5084285714285715, val accuracy : 0.5015
+Start of 313 epoch
+	 Train loss : 1.63460180997455, val loss : 1.5335356888017757
+	 Train accuracy : 0.5574285714285714, val accuracy : 0.5605
+Start of 314 epoch
+	 Train loss : 1.5276599665361856, val loss : 1.6432430995853924
+	 Train accuracy : 0.5102142857142857, val accuracy : 0.5018333333333334
+Start of 315 epoch
+	 Train loss : 1.629782454414484, val loss : 1.5290551664471428
+	 Train accuracy : 0.5594285714285714, val accuracy : 0.562
+Start of 316 epoch
+	 Train loss : 1.5225222895526027, val loss : 1.6387209893773227
+	 Train accuracy : 0.5125, val accuracy : 0.504
+Start of 317 epoch
+	 Train loss : 1.6247887291798992, val loss : 1.524290928332219
+	 Train accuracy : 0.5605, val accuracy : 0.5633333333333334
+Start of 318 epoch
+	 Train loss : 1.51742531502518, val loss : 1.634347551777157
+	 Train accuracy : 0.5133571428571428, val accuracy : 0.5055
+Start of 319 epoch
+	 Train loss : 1.6205195577476472, val loss : 1.5201868956463314
+	 Train accuracy : 0.5622857142857143, val accuracy : 0.564
+Start of 320 epoch
+	 Train loss : 1.5128157749506392, val loss : 1.630758267969043
+	 Train accuracy : 0.5137142857142857, val accuracy : 0.5063333333333333
+Start of 321 epoch
+	 Train loss : 1.6163737371014957, val loss : 1.516191601717517
+	 Train accuracy : 0.5627857142857143, val accuracy : 0.566
+Start of 322 epoch
+	 Train loss : 1.508602593220697, val loss : 1.6260784081284467
+	 Train accuracy : 0.5179285714285714, val accuracy : 0.5093333333333333
+Start of 323 epoch
+	 Train loss : 1.6118450872560157, val loss : 1.5122904058715139
+	 Train accuracy : 0.5653571428571429, val accuracy : 0.5663333333333334
+Start of 324 epoch
+	 Train loss : 1.503891263201965, val loss : 1.6208537228750792
+	 Train accuracy : 0.5172857142857142, val accuracy : 0.5096666666666667
+Start of 325 epoch
+	 Train loss : 1.6071052265049746, val loss : 1.5103857414816673
+	 Train accuracy : 0.5689285714285715, val accuracy : 0.567
+Start of 326 epoch
+	 Train loss : 1.5000694142627489, val loss : 1.6163806238282392
+	 Train accuracy : 0.518, val accuracy : 0.509
+Start of 327 epoch
+	 Train loss : 1.6026458469684794, val loss : 1.507420229435893
+	 Train accuracy : 0.5682857142857143, val accuracy : 0.5668333333333333
+Start of 328 epoch
+	 Train loss : 1.4969103814005609, val loss : 1.6127681324119585
+	 Train accuracy : 0.5190714285714285, val accuracy : 0.5103333333333333
+Start of 329 epoch
+	 Train loss : 1.5983696902243774, val loss : 1.5039955398582694
+	 Train accuracy : 0.5695714285714286, val accuracy : 0.568
+Start of 330 epoch
+	 Train loss : 1.4934631435113874, val loss : 1.60897362676638
+	 Train accuracy : 0.5204285714285715, val accuracy : 0.5113333333333333
+Start of 331 epoch
+	 Train loss : 1.5947347961792604, val loss : 1.5003277023053394
+	 Train accuracy : 0.5702142857142857, val accuracy : 0.5681666666666667
+Start of 332 epoch
+	 Train loss : 1.4902319101371109, val loss : 1.6041812944627178
+	 Train accuracy : 0.5222857142857142, val accuracy : 0.5128333333333334
+Start of 333 epoch
+	 Train loss : 1.5897258224392865, val loss : 1.4960112139747916
+	 Train accuracy : 0.5706428571428571, val accuracy : 0.5705
+Start of 334 epoch
+	 Train loss : 1.4863796712105852, val loss : 1.600780412040498
+	 Train accuracy : 0.5240714285714285, val accuracy : 0.514
+Start of 335 epoch
+	 Train loss : 1.58603669148609, val loss : 1.492211027305655
+	 Train accuracy : 0.5712142857142857, val accuracy : 0.5745
+Start of 336 epoch
+	 Train loss : 1.4833822247238613, val loss : 1.6005849178732128
+	 Train accuracy : 0.5286428571428572, val accuracy : 0.516
+Start of 337 epoch
+	 Train loss : 1.5831986057402725, val loss : 1.4876194706241106
+	 Train accuracy : 0.5735714285714286, val accuracy : 0.576
+Start of 338 epoch
+	 Train loss : 1.4787766138330494, val loss : 1.5971157213176508
+	 Train accuracy : 0.5292142857142857, val accuracy : 0.5178333333333334
+Start of 339 epoch
+	 Train loss : 1.5801603593231341, val loss : 1.483472985244544
+	 Train accuracy : 0.5750714285714286, val accuracy : 0.576
+Start of 340 epoch
+	 Train loss : 1.474663446263292, val loss : 1.5928414904934405
+	 Train accuracy : 0.5286428571428572, val accuracy : 0.518
+Start of 341 epoch
+	 Train loss : 1.5765211564971804, val loss : 1.480157745453193
+	 Train accuracy : 0.5758571428571428, val accuracy : 0.5768333333333333
+Start of 342 epoch
+	 Train loss : 1.4712556348908414, val loss : 1.5892874780584303
+	 Train accuracy : 0.5297142857142857, val accuracy : 0.5178333333333334
+Start of 343 epoch
+	 Train loss : 1.5731390529143665, val loss : 1.47739392005873
+	 Train accuracy : 0.5767142857142857, val accuracy : 0.579
+Start of 344 epoch
+	 Train loss : 1.4679558055293305, val loss : 1.585037494132989
+	 Train accuracy : 0.5281428571428571, val accuracy : 0.5186666666666667
+Start of 345 epoch
+	 Train loss : 1.5697620758276936, val loss : 1.4773105873728192
+	 Train accuracy : 0.5777857142857142, val accuracy : 0.5768333333333333
+Start of 346 epoch
+	 Train loss : 1.4659225924421004, val loss : 1.5777783782217132
+	 Train accuracy : 0.5285, val accuracy : 0.5168333333333334
+Start of 347 epoch
+	 Train loss : 1.5643836577533519, val loss : 1.4749297740431184
+	 Train accuracy : 0.5785714285714286, val accuracy : 0.5765
+Start of 348 epoch
+	 Train loss : 1.4630861002892526, val loss : 1.5734478591855359
+	 Train accuracy : 0.5292857142857142, val accuracy : 0.5176666666666667
+Start of 349 epoch
+	 Train loss : 1.5604366107819108, val loss : 1.4711609711732638
+	 Train accuracy : 0.5798571428571428, val accuracy : 0.5768333333333333
+Start of 350 epoch
+	 Train loss : 1.4591303294167446, val loss : 1.5703731829549306
+	 Train accuracy : 0.5297142857142857, val accuracy : 0.5173333333333333
+Start of 351 epoch
+	 Train loss : 1.5564593396938615, val loss : 1.4677128871330676
+	 Train accuracy : 0.5806428571428571, val accuracy : 0.5783333333333334
+Start of 352 epoch
+	 Train loss : 1.456120996451337, val loss : 1.566306573098258
+	 Train accuracy : 0.5314285714285715, val accuracy : 0.5211666666666667
+Start of 353 epoch
+	 Train loss : 1.55259324228441, val loss : 1.464128478799769
+	 Train accuracy : 0.5815, val accuracy : 0.5795
+Start of 354 epoch
+	 Train loss : 1.4530403107591912, val loss : 1.56311001320318
+	 Train accuracy : 0.5325714285714286, val accuracy : 0.5206666666666667
+Start of 355 epoch
+	 Train loss : 1.548950594562141, val loss : 1.4620180678309678
+	 Train accuracy : 0.5829285714285715, val accuracy : 0.5826666666666667
+Start of 356 epoch
+	 Train loss : 1.4501324534076083, val loss : 1.5595980549912878
+	 Train accuracy : 0.5339285714285714, val accuracy : 0.5215
+Start of 357 epoch
+	 Train loss : 1.5455141243510253, val loss : 1.4594512572053704
+	 Train accuracy : 0.5845714285714285, val accuracy : 0.5836666666666667
+Start of 358 epoch
+	 Train loss : 1.4474528846624288, val loss : 1.5567521609289587
+	 Train accuracy : 0.5356428571428572, val accuracy : 0.523
+Start of 359 epoch
+	 Train loss : 1.542257436705716, val loss : 1.4568628964723769
+	 Train accuracy : 0.5849285714285715, val accuracy : 0.5833333333333334
+Start of 360 epoch
+	 Train loss : 1.4443362284296615, val loss : 1.5534717045146638
+	 Train accuracy : 0.5357142857142857, val accuracy : 0.5231666666666667
+Start of 361 epoch
+	 Train loss : 1.5387524659325105, val loss : 1.4539914837524697
+	 Train accuracy : 0.5855714285714285, val accuracy : 0.5843333333333334
+Start of 362 epoch
+	 Train loss : 1.4415173455883954, val loss : 1.5501746676177839
+	 Train accuracy : 0.5380714285714285, val accuracy : 0.5246666666666666
+Start of 363 epoch
+	 Train loss : 1.5349863262314674, val loss : 1.449893349436903
+	 Train accuracy : 0.5870714285714286, val accuracy : 0.5856666666666667
+Start of 364 epoch
+	 Train loss : 1.4374398529214854, val loss : 1.5462214299418509
+	 Train accuracy : 0.5382857142857143, val accuracy : 0.5258333333333334
+Start of 365 epoch
+	 Train loss : 1.5311032879314446, val loss : 1.4468866778080243
+	 Train accuracy : 0.5874285714285714, val accuracy : 0.5848333333333333
+Start of 366 epoch
+	 Train loss : 1.4336629375828884, val loss : 1.5407725295566415
+	 Train accuracy : 0.5395714285714286, val accuracy : 0.5275
+Start of 367 epoch
+	 Train loss : 1.5273399214955623, val loss : 1.4441626382546668
+	 Train accuracy : 0.5894285714285714, val accuracy : 0.5861666666666666
+Start of 368 epoch
+	 Train loss : 1.4306581025517386, val loss : 1.5368566266784018
+	 Train accuracy : 0.5405, val accuracy : 0.528
+Start of 369 epoch
+	 Train loss : 1.5234690003861573, val loss : 1.441021834945884
+	 Train accuracy : 0.5899285714285715, val accuracy : 0.5871666666666666
+Start of 370 epoch
+	 Train loss : 1.4275203272743227, val loss : 1.5331855342123555
+	 Train accuracy : 0.5417857142857143, val accuracy : 0.5321666666666667
+Start of 371 epoch
+	 Train loss : 1.5196129234573947, val loss : 1.4383521510090864
+	 Train accuracy : 0.5907857142857142, val accuracy : 0.5861666666666666
+Start of 372 epoch
+	 Train loss : 1.4247405182266406, val loss : 1.528664675423172
+	 Train accuracy : 0.542, val accuracy : 0.5313333333333333
+Start of 373 epoch
+	 Train loss : 1.5158287023083223, val loss : 1.4347608446108446
+	 Train accuracy : 0.5909285714285715, val accuracy : 0.5865
+Start of 374 epoch
+	 Train loss : 1.421484039470831, val loss : 1.5259506476293454
+	 Train accuracy : 0.5431428571428571, val accuracy : 0.534
+Start of 375 epoch
+	 Train loss : 1.5124562089845037, val loss : 1.4310597851121387
+	 Train accuracy : 0.5919285714285715, val accuracy : 0.5886666666666667
+Start of 376 epoch
+	 Train loss : 1.4180386744986049, val loss : 1.5228834233384678
+	 Train accuracy : 0.5442857142857143, val accuracy : 0.534
+Start of 377 epoch
+	 Train loss : 1.50866799349875, val loss : 1.4266611796489237
+	 Train accuracy : 0.5945, val accuracy : 0.5911666666666666
+Start of 378 epoch
+	 Train loss : 1.4147548930826181, val loss : 1.520485656391849
+	 Train accuracy : 0.547, val accuracy : 0.5383333333333333
+Start of 379 epoch
+	 Train loss : 1.505836769376876, val loss : 1.4218914362106991
+	 Train accuracy : 0.5950714285714286, val accuracy : 0.5951666666666666
+Start of 380 epoch
+	 Train loss : 1.4113239922133465, val loss : 1.5170531145650201
+	 Train accuracy : 0.5470714285714285, val accuracy : 0.5386666666666666
+Start of 381 epoch
+	 Train loss : 1.5016382208807595, val loss : 1.4185186763131121
+	 Train accuracy : 0.5963571428571428, val accuracy : 0.5951666666666666
+Start of 382 epoch
+	 Train loss : 1.4073288809809326, val loss : 1.5130198445834495
+	 Train accuracy : 0.5468571428571428, val accuracy : 0.5385
+Start of 383 epoch
+	 Train loss : 1.4986783846499063, val loss : 1.4152948710342728
+	 Train accuracy : 0.5974285714285714, val accuracy : 0.5943333333333334
+Start of 384 epoch
+	 Train loss : 1.4036188643679726, val loss : 1.5099049029667297
+	 Train accuracy : 0.5489285714285714, val accuracy : 0.5381666666666667
+Start of 385 epoch
+	 Train loss : 1.4954247882013145, val loss : 1.4126958158445657
+	 Train accuracy : 0.6005, val accuracy : 0.5948333333333333
+Start of 386 epoch
+	 Train loss : 1.4001770394444595, val loss : 1.506128755443754
+	 Train accuracy : 0.5481428571428572, val accuracy : 0.5406666666666666
+Start of 387 epoch
+	 Train loss : 1.4921248358955936, val loss : 1.4109869588607087
+	 Train accuracy : 0.6009285714285715, val accuracy : 0.5941666666666666
+Start of 388 epoch
+	 Train loss : 1.397109624378319, val loss : 1.50218203863491
+	 Train accuracy : 0.5483571428571429, val accuracy : 0.5405
+Start of 389 epoch
+	 Train loss : 1.4899577377210373, val loss : 1.409257991319622
+	 Train accuracy : 0.5999285714285715, val accuracy : 0.5958333333333333
+Start of 390 epoch
+	 Train loss : 1.3944194225878428, val loss : 1.4990763601538188
+	 Train accuracy : 0.5476428571428571, val accuracy : 0.5408333333333334
+Start of 391 epoch
+	 Train loss : 1.4866688881688117, val loss : 1.4065643842365407
+	 Train accuracy : 0.6007857142857143, val accuracy : 0.5953333333333334
+Start of 392 epoch
+	 Train loss : 1.391671771044267, val loss : 1.4958525713986444
+	 Train accuracy : 0.5488571428571428, val accuracy : 0.5433333333333333
+Start of 393 epoch
+	 Train loss : 1.4835621049759835, val loss : 1.4039142610344462
+	 Train accuracy : 0.6014285714285714, val accuracy : 0.5976666666666667
+Start of 394 epoch
+	 Train loss : 1.389371702315166, val loss : 1.492836327210562
+	 Train accuracy : 0.5499285714285714, val accuracy : 0.5441666666666667
+Start of 395 epoch
+	 Train loss : 1.480405036205341, val loss : 1.4021665380456856
+	 Train accuracy : 0.6019285714285715, val accuracy : 0.598
+Start of 396 epoch
+	 Train loss : 1.3875179445977854, val loss : 1.489869441337148
+	 Train accuracy : 0.5521428571428572, val accuracy : 0.546
+Start of 397 epoch
+	 Train loss : 1.4770322997235072, val loss : 1.4002967572731546
+	 Train accuracy : 0.6027142857142858, val accuracy : 0.5993333333333334
+Start of 398 epoch
+	 Train loss : 1.3854287884977419, val loss : 1.4864685013055683
+	 Train accuracy : 0.5530714285714285, val accuracy : 0.5473333333333333
+Start of 399 epoch
+	 Train loss : 1.4735685844612378, val loss : 1.3979427265887465
+	 Train accuracy : 0.6034285714285714, val accuracy : 0.6
+Start of 400 epoch
+	 Train loss : 1.3832233613610763, val loss : 1.4842415746887494
+	 Train accuracy : 0.5547142857142857, val accuracy : 0.5476666666666666
+Start of 401 epoch
+	 Train loss : 1.4706389370930637, val loss : 1.3961127971312233
+	 Train accuracy : 0.6037142857142858, val accuracy : 0.6011666666666666
+Start of 402 epoch
+	 Train loss : 1.3812552432816656, val loss : 1.4810854048270357
+	 Train accuracy : 0.5556428571428571, val accuracy : 0.549
+Start of 403 epoch
+	 Train loss : 1.4675502256178141, val loss : 1.3939814307406742
+	 Train accuracy : 0.6045714285714285, val accuracy : 0.602
+Start of 404 epoch
+	 Train loss : 1.3791682952400188, val loss : 1.4787246159987544
+	 Train accuracy : 0.5557142857142857, val accuracy : 0.5493333333333333
+Start of 405 epoch
+	 Train loss : 1.4649355374787343, val loss : 1.3909472229558368
+	 Train accuracy : 0.6062142857142857, val accuracy : 0.6026666666666667
+Start of 406 epoch
+	 Train loss : 1.3761950398005036, val loss : 1.4763234000251648
+	 Train accuracy : 0.5573571428571429, val accuracy : 0.549
+Start of 407 epoch
+	 Train loss : 1.4619570582484347, val loss : 1.388113036552946
+	 Train accuracy : 0.6061428571428571, val accuracy : 0.6026666666666667
+Start of 408 epoch
+	 Train loss : 1.3736705560126916, val loss : 1.473460289549884
+	 Train accuracy : 0.5591428571428572, val accuracy : 0.5498333333333333
+Start of 409 epoch
+	 Train loss : 1.4589819100808374, val loss : 1.3862213995816344
+	 Train accuracy : 0.6059285714285715, val accuracy : 0.6023333333333334
+Start of 410 epoch
+	 Train loss : 1.37131027526491, val loss : 1.4709609916131454
+	 Train accuracy : 0.5595714285714286, val accuracy : 0.5505
+Start of 411 epoch
+	 Train loss : 1.4564892689916549, val loss : 1.3840514066706588
+	 Train accuracy : 0.6085714285714285, val accuracy : 0.605
+Start of 412 epoch
+	 Train loss : 1.3687578624777792, val loss : 1.4683660784774286
+	 Train accuracy : 0.5607857142857143, val accuracy : 0.5513333333333333
+Start of 413 epoch
+	 Train loss : 1.453673660513078, val loss : 1.3826762513348627
+	 Train accuracy : 0.6092142857142857, val accuracy : 0.6038333333333333
+Start of 414 epoch
+	 Train loss : 1.3666582110055419, val loss : 1.4658340005031048
+	 Train accuracy : 0.5621428571428572, val accuracy : 0.553
+Start of 415 epoch
+	 Train loss : 1.451073599135342, val loss : 1.380570266220639
+	 Train accuracy : 0.6102142857142857, val accuracy : 0.605
+Start of 416 epoch
+	 Train loss : 1.364600567285301, val loss : 1.4633163309156954
+	 Train accuracy : 0.5625, val accuracy : 0.5531666666666667
+Start of 417 epoch
+	 Train loss : 1.4482619426309729, val loss : 1.3783314556953425
+	 Train accuracy : 0.6102142857142857, val accuracy : 0.605
+Start of 418 epoch
+	 Train loss : 1.3623465144422482, val loss : 1.4607239325634571
+	 Train accuracy : 0.5645714285714286, val accuracy : 0.5541666666666667
+Start of 419 epoch
+	 Train loss : 1.4454617247665198, val loss : 1.3759064319828378
+	 Train accuracy : 0.6097857142857143, val accuracy : 0.6048333333333333
+Start of 420 epoch
+	 Train loss : 1.3595891869644168, val loss : 1.4583541373047253
+	 Train accuracy : 0.5645, val accuracy : 0.5541666666666667
+Start of 421 epoch
+	 Train loss : 1.4426761633247984, val loss : 1.373095020606741
+	 Train accuracy : 0.6108571428571429, val accuracy : 0.6076666666666667
+Start of 422 epoch
+	 Train loss : 1.357238758686292, val loss : 1.455246469146223
+	 Train accuracy : 0.5642857142857143, val accuracy : 0.5545
+Start of 423 epoch
+	 Train loss : 1.4393874190247686, val loss : 1.3704979789120975
+	 Train accuracy : 0.6123571428571428, val accuracy : 0.6091666666666666
+Start of 424 epoch
+	 Train loss : 1.3548926731735684, val loss : 1.4539907811306072
+	 Train accuracy : 0.5661428571428572, val accuracy : 0.5548333333333333
+Start of 425 epoch
+	 Train loss : 1.43737436428756, val loss : 1.3654396477444455
+	 Train accuracy : 0.6138571428571429, val accuracy : 0.6106666666666667
+Start of 426 epoch
+	 Train loss : 1.3524852000472378, val loss : 1.4523578351917048
+	 Train accuracy : 0.5664285714285714, val accuracy : 0.554
+Start of 427 epoch
+	 Train loss : 1.4342318880552851, val loss : 1.3622668354559642
+	 Train accuracy : 0.6146428571428572, val accuracy : 0.6123333333333333
+Start of 428 epoch
+	 Train loss : 1.3493724903719875, val loss : 1.4498790213842427
+	 Train accuracy : 0.566, val accuracy : 0.5523333333333333
+Start of 429 epoch
+	 Train loss : 1.4312883000108785, val loss : 1.359608774567252
+	 Train accuracy : 0.6155714285714285, val accuracy : 0.6135
+Start of 430 epoch
+	 Train loss : 1.3462249631993353, val loss : 1.4467137156963432
+	 Train accuracy : 0.5666428571428571, val accuracy : 0.5543333333333333
+Start of 431 epoch
+	 Train loss : 1.4277993675501919, val loss : 1.3672301839778678
+	 Train accuracy : 0.6099285714285714, val accuracy : 0.6086666666666667
+Start of 432 epoch
+	 Train loss : 1.3593568704967403, val loss : 1.4714358400824443
+	 Train accuracy : 0.5661428571428572, val accuracy : 0.5485
+Start of 433 epoch
+	 Train loss : 1.4444220781267179, val loss : 1.363518882235877
+	 Train accuracy : 0.6105714285714285, val accuracy : 0.6103333333333333
+Start of 434 epoch
+	 Train loss : 1.355499195691637, val loss : 1.4639541753482956
+	 Train accuracy : 0.5667857142857143, val accuracy : 0.5533333333333333
+Start of 435 epoch
+	 Train loss : 1.4384284919832855, val loss : 1.363280451612473
+	 Train accuracy : 0.6097857142857143, val accuracy : 0.6093333333333333
+Start of 436 epoch
+	 Train loss : 1.35470716894292, val loss : 1.4574686410234148
+	 Train accuracy : 0.5706428571428571, val accuracy : 0.5593333333333333
+Start of 437 epoch
+	 Train loss : 1.4316342626640874, val loss : 1.3978554545167565
+	 Train accuracy : 0.5938571428571429, val accuracy : 0.5961666666666666
+Start of 438 epoch
+	 Train loss : 1.3903020798835946, val loss : 1.6123209642504097
+	 Train accuracy : 0.5309285714285714, val accuracy : 0.517
+Start of 439 epoch
+	 Train loss : 1.570347258420475, val loss : 1.8611422432293123
+	 Train accuracy : 0.4585714285714286, val accuracy : 0.45516666666666666
+Start of 440 epoch
+	 Train loss : 1.882731937181398, val loss : 1.968379313805763
+	 Train accuracy : 0.45835714285714285, val accuracy : 0.4555
+Start of 441 epoch
+	 Train loss : 1.9410518676747228, val loss : 1.8680450653280185
+	 Train accuracy : 0.4662142857142857, val accuracy : 0.4633333333333333
+Start of 442 epoch
+	 Train loss : 1.8627133595925598, val loss : 1.8356858453410583
+	 Train accuracy : 0.47735714285714287, val accuracy : 0.4741666666666667
+Start of 443 epoch
+	 Train loss : 1.8057971726390372, val loss : 1.825689136773547
+	 Train accuracy : 0.4835, val accuracy : 0.4866666666666667
+Start of 444 epoch
+	 Train loss : 1.822501409839879, val loss : 1.7842708011917487
+	 Train accuracy : 0.48757142857142854, val accuracy : 0.48
+Start of 445 epoch
+	 Train loss : 1.7521527656799796, val loss : 1.8073185340229305
+	 Train accuracy : 0.4887142857142857, val accuracy : 0.488
+Start of 446 epoch
+	 Train loss : 1.8059937925635745, val loss : 1.7519700136156853
+	 Train accuracy : 0.49342857142857144, val accuracy : 0.4856666666666667
+Start of 447 epoch
+	 Train loss : 1.7199231656298326, val loss : 1.7979250408588798
+	 Train accuracy : 0.49178571428571427, val accuracy : 0.494
+Start of 448 epoch
+	 Train loss : 1.797144646165549, val loss : 1.7275734556722695
+	 Train accuracy : 0.49985714285714283, val accuracy : 0.49
+Start of 449 epoch
+	 Train loss : 1.6947459704162287, val loss : 1.7918226457087285
+	 Train accuracy : 0.4945, val accuracy : 0.49433333333333335
+Start of 450 epoch
+	 Train loss : 1.7912628391991605, val loss : 1.7069397534067554
+	 Train accuracy : 0.5053571428571428, val accuracy : 0.49433333333333335
+Start of 451 epoch
+	 Train loss : 1.6736006174160256, val loss : 1.7861585596590306
+	 Train accuracy : 0.49707142857142855, val accuracy : 0.49716666666666665
+Start of 452 epoch
+	 Train loss : 1.7858741797335613, val loss : 1.6880085361065043
+	 Train accuracy : 0.5095, val accuracy : 0.498
+Start of 453 epoch
+	 Train loss : 1.6543724988792143, val loss : 1.779633219302329
+	 Train accuracy : 0.49792857142857144, val accuracy : 0.49716666666666665
+Start of 454 epoch
+	 Train loss : 1.779506392749729, val loss : 1.6722302455063824
+	 Train accuracy : 0.5127142857142857, val accuracy : 0.501
+Start of 455 epoch
+	 Train loss : 1.637960016953298, val loss : 1.7739017304202325
+	 Train accuracy : 0.49907142857142855, val accuracy : 0.49766666666666665
+Start of 456 epoch
+	 Train loss : 1.7741581129273956, val loss : 1.6572074985295606
+	 Train accuracy : 0.5155714285714286, val accuracy : 0.505
+Start of 457 epoch
+	 Train loss : 1.6224790773446796, val loss : 1.7683762880464649
+	 Train accuracy : 0.5005714285714286, val accuracy : 0.49983333333333335
+Start of 458 epoch
+	 Train loss : 1.7686034634955834, val loss : 1.6426446871409428
+	 Train accuracy : 0.5193571428571429, val accuracy : 0.5095
+Start of 459 epoch
+	 Train loss : 1.6080683388053731, val loss : 1.7631946895613355
+	 Train accuracy : 0.5027142857142857, val accuracy : 0.502
+Start of 460 epoch
+	 Train loss : 1.763013331803486, val loss : 1.6292620000616571
+	 Train accuracy : 0.5227857142857143, val accuracy : 0.5138333333333334
+Start of 461 epoch
+	 Train loss : 1.5950102441546743, val loss : 1.7568112230255308
+	 Train accuracy : 0.5048571428571429, val accuracy : 0.5031666666666667
+Start of 462 epoch
+	 Train loss : 1.7565429569322366, val loss : 1.6183107609476834
+	 Train accuracy : 0.5265714285714286, val accuracy : 0.5178333333333334
+Start of 463 epoch
+	 Train loss : 1.5835826492793281, val loss : 1.7503268783770891
+	 Train accuracy : 0.5069285714285714, val accuracy : 0.506
+Start of 464 epoch
+	 Train loss : 1.7501658175352188, val loss : 1.607439111458926
+	 Train accuracy : 0.5302857142857142, val accuracy : 0.5228333333333334
+Start of 465 epoch
+	 Train loss : 1.5721183108044836, val loss : 1.7440698125237535
+	 Train accuracy : 0.5085, val accuracy : 0.508
+Start of 466 epoch
+	 Train loss : 1.7437176259139926, val loss : 1.5965595060188396
+	 Train accuracy : 0.5332142857142858, val accuracy : 0.5258333333333334
+Start of 467 epoch
+	 Train loss : 1.561122870666722, val loss : 1.7384020580381485
+	 Train accuracy : 0.5108571428571429, val accuracy : 0.51
+Start of 468 epoch
+	 Train loss : 1.7379354456790008, val loss : 1.5873787832260227
+	 Train accuracy : 0.5362857142857143, val accuracy : 0.5305
+Start of 469 epoch
+	 Train loss : 1.5514194626645286, val loss : 1.7320982024734848
+	 Train accuracy : 0.5123571428571428, val accuracy : 0.5113333333333333
+Start of 470 epoch
+	 Train loss : 1.7314030975677783, val loss : 1.5789655867098271
+	 Train accuracy : 0.5384285714285715, val accuracy : 0.5308333333333334
+Start of 471 epoch
+	 Train loss : 1.5424757966059313, val loss : 1.7265207598634515
+	 Train accuracy : 0.5142857142857142, val accuracy : 0.5126666666666667
+Start of 472 epoch
+	 Train loss : 1.7257590954169972, val loss : 1.5702281855810558
+	 Train accuracy : 0.5399285714285714, val accuracy : 0.5328333333333334
+Start of 473 epoch
+	 Train loss : 1.5339327761406705, val loss : 1.7204853650209664
+	 Train accuracy : 0.5165, val accuracy : 0.5146666666666667
+Start of 474 epoch
+	 Train loss : 1.71971453202962, val loss : 1.5626907552191134
+	 Train accuracy : 0.5420714285714285, val accuracy : 0.5338333333333334
+Start of 475 epoch
+	 Train loss : 1.5262324500644304, val loss : 1.7147480490682734
+	 Train accuracy : 0.5170714285714286, val accuracy : 0.5153333333333333
+Start of 476 epoch
+	 Train loss : 1.7135301440703599, val loss : 1.5555635972464683
+	 Train accuracy : 0.5445, val accuracy : 0.5363333333333333
+Start of 477 epoch
+	 Train loss : 1.5189875366297765, val loss : 1.7100123527401248
+	 Train accuracy : 0.5177857142857143, val accuracy : 0.5158333333333334
+Start of 478 epoch
+	 Train loss : 1.7080271941053418, val loss : 1.547755808776863
+	 Train accuracy : 0.5473571428571429, val accuracy : 0.5405
+Start of 479 epoch
+	 Train loss : 1.5120581904492036, val loss : 1.703992827820645
+	 Train accuracy : 0.5193571428571429, val accuracy : 0.5188333333333334
+Start of 480 epoch
+	 Train loss : 1.7017195655133832, val loss : 1.54160719927379
+	 Train accuracy : 0.5492142857142858, val accuracy : 0.542
+Start of 481 epoch
+	 Train loss : 1.5057454591025337, val loss : 1.697614121784626
+	 Train accuracy : 0.5209285714285714, val accuracy : 0.5203333333333333
+Start of 482 epoch
+	 Train loss : 1.6956417588497061, val loss : 1.5355106843372734
+	 Train accuracy : 0.5507142857142857, val accuracy : 0.541
+Start of 483 epoch
+	 Train loss : 1.4989041760624826, val loss : 1.6910346956682412
+	 Train accuracy : 0.5232857142857142, val accuracy : 0.5238333333333334
+Start of 484 epoch
+	 Train loss : 1.6893628169917767, val loss : 1.5285926848426936
+	 Train accuracy : 0.5523571428571429, val accuracy : 0.5433333333333333
+Start of 485 epoch
+	 Train loss : 1.4922840428704627, val loss : 1.6857579186663425
+	 Train accuracy : 0.5256428571428572, val accuracy : 0.5251666666666667
+Start of 486 epoch
+	 Train loss : 1.6839328056330674, val loss : 1.5228216893299422
+	 Train accuracy : 0.5540714285714285, val accuracy : 0.5451666666666667
+Start of 487 epoch
+	 Train loss : 1.4867032273986442, val loss : 1.680500499005379
+	 Train accuracy : 0.5267857142857143, val accuracy : 0.5248333333333334
+Start of 488 epoch
+	 Train loss : 1.6781177575876216, val loss : 1.5173496986083834
+	 Train accuracy : 0.5555714285714286, val accuracy : 0.5468333333333333
+Start of 489 epoch
+	 Train loss : 1.481502150453794, val loss : 1.675619083596735
+	 Train accuracy : 0.5277857142857143, val accuracy : 0.5263333333333333
+Start of 490 epoch
+	 Train loss : 1.6726751685589956, val loss : 1.5111581427270921
+	 Train accuracy : 0.5579285714285714, val accuracy : 0.549
+Start of 491 epoch
+	 Train loss : 1.4757161627363593, val loss : 1.6691664934146728
+	 Train accuracy : 0.5304285714285715, val accuracy : 0.528
+Start of 492 epoch
+	 Train loss : 1.6663265370716456, val loss : 1.5071025946288403
+	 Train accuracy : 0.5592142857142857, val accuracy : 0.55
+Start of 493 epoch
+	 Train loss : 1.4712745286322655, val loss : 1.6637376980863594
+	 Train accuracy : 0.5315714285714286, val accuracy : 0.531
+Start of 494 epoch
+	 Train loss : 1.6611084427820313, val loss : 1.5028484335048375
+	 Train accuracy : 0.5593571428571429, val accuracy : 0.5506666666666666
+Start of 495 epoch
+	 Train loss : 1.4667019441616638, val loss : 1.6588879686730547
+	 Train accuracy : 0.5322142857142858, val accuracy : 0.5306666666666666
+Start of 496 epoch
+	 Train loss : 1.6559906257034487, val loss : 1.4980044041825105
+	 Train accuracy : 0.5606428571428571, val accuracy : 0.5531666666666667
+Start of 497 epoch
+	 Train loss : 1.4623329245318772, val loss : 1.6526210119713471
+	 Train accuracy : 0.5340714285714285, val accuracy : 0.5315
+Start of 498 epoch
+	 Train loss : 1.6498518739424175, val loss : 1.493969270411038
+	 Train accuracy : 0.5623571428571429, val accuracy : 0.5546666666666666
+Start of 499 epoch
+	 Train loss : 1.4581871804516402, val loss : 1.6480800651293224
+	 Train accuracy : 0.5348571428571428, val accuracy : 0.5323333333333333
+Start of 500 epoch
+	 Train loss : 1.6450637000920016, val loss : 1.4903051085699872
+	 Train accuracy : 0.5645, val accuracy : 0.5555
+Start of 501 epoch
+	 Train loss : 1.4547903524854922, val loss : 1.643291249152637
+	 Train accuracy : 0.5373571428571429, val accuracy : 0.5335
+Start of 502 epoch
+	 Train loss : 1.6400465198500351, val loss : 1.4862467539872375
+	 Train accuracy : 0.5649285714285714, val accuracy : 0.5565
+Start of 503 epoch
+	 Train loss : 1.4509048660888304, val loss : 1.6386659080361454
+	 Train accuracy : 0.5385, val accuracy : 0.5355
+Start of 504 epoch
+	 Train loss : 1.6352259237401225, val loss : 1.4826312413284928
+	 Train accuracy : 0.5652142857142857, val accuracy : 0.557
+Start of 505 epoch
+	 Train loss : 1.4472033868459813, val loss : 1.6340183250547948
+	 Train accuracy : 0.5394285714285715, val accuracy : 0.5373333333333333
+Start of 506 epoch
+	 Train loss : 1.6304565983868435, val loss : 1.4783051499478843
+	 Train accuracy : 0.5669285714285714, val accuracy : 0.5575
+Start of 507 epoch
+	 Train loss : 1.4434567160733534, val loss : 1.6284977374677294
+	 Train accuracy : 0.5407142857142857, val accuracy : 0.5385
+Start of 508 epoch
+	 Train loss : 1.6248001024445888, val loss : 1.4751647225437694
+	 Train accuracy : 0.5686428571428571, val accuracy : 0.5591666666666667
+Start of 509 epoch
+	 Train loss : 1.4403421469527145, val loss : 1.6238181461192276
+	 Train accuracy : 0.5417142857142857, val accuracy : 0.5398333333333334
+Start of 510 epoch
+	 Train loss : 1.6199692213142625, val loss : 1.471859611189747
+	 Train accuracy : 0.5691428571428572, val accuracy : 0.5591666666666667
+Start of 511 epoch
+	 Train loss : 1.437013585453775, val loss : 1.6194879584899524
+	 Train accuracy : 0.5432857142857143, val accuracy : 0.5403333333333333
+Start of 512 epoch
+	 Train loss : 1.615794867127286, val loss : 1.4684673210691381
+	 Train accuracy : 0.5706428571428571, val accuracy : 0.56
+Start of 513 epoch
+	 Train loss : 1.4333979266702006, val loss : 1.6158502862479127
+	 Train accuracy : 0.5439285714285714, val accuracy : 0.5415
+Start of 514 epoch
+	 Train loss : 1.6118854769086595, val loss : 1.4650766845007632
+	 Train accuracy : 0.5717142857142857, val accuracy : 0.5613333333333334
+Start of 515 epoch
+	 Train loss : 1.4302274038449763, val loss : 1.6117998106135878
+	 Train accuracy : 0.5443571428571429, val accuracy : 0.5436666666666666
+Start of 516 epoch
+	 Train loss : 1.6079482280900403, val loss : 1.46210485148285
+	 Train accuracy : 0.5732857142857143, val accuracy : 0.5616666666666666
+Start of 517 epoch
+	 Train loss : 1.4272282716133804, val loss : 1.6083998690961119
+	 Train accuracy : 0.5457142857142857, val accuracy : 0.5453333333333333
+Start of 518 epoch
+	 Train loss : 1.6043316944667096, val loss : 1.458698409832611
+	 Train accuracy : 0.5741428571428572, val accuracy : 0.5623333333333334
+Start of 519 epoch
+	 Train loss : 1.4238803496579377, val loss : 1.604358328009783
+	 Train accuracy : 0.5461428571428572, val accuracy : 0.5461666666666667
+Start of 520 epoch
+	 Train loss : 1.5999810911031473, val loss : 1.4554786685497474
+	 Train accuracy : 0.5750714285714286, val accuracy : 0.5623333333333334
+Start of 521 epoch
+	 Train loss : 1.4206487232138747, val loss : 1.6008139385618019
+	 Train accuracy : 0.5467142857142857, val accuracy : 0.5476666666666666
+Start of 522 epoch
+	 Train loss : 1.5963585626269523, val loss : 1.452549723465011
+	 Train accuracy : 0.5762142857142857, val accuracy : 0.5626666666666666
+Start of 523 epoch
+	 Train loss : 1.4176409839612818, val loss : 1.5972622447176739
+	 Train accuracy : 0.5477142857142857, val accuracy : 0.5481666666666667
+Start of 524 epoch
+	 Train loss : 1.592872629252552, val loss : 1.4496267310905853
+	 Train accuracy : 0.5769285714285715, val accuracy : 0.5633333333333334
+Start of 525 epoch
+	 Train loss : 1.4147376144076391, val loss : 1.5941303630454104
+	 Train accuracy : 0.5482142857142858, val accuracy : 0.5483333333333333
+Start of 526 epoch
+	 Train loss : 1.589611241817092, val loss : 1.4466231015729363
+	 Train accuracy : 0.5777857142857142, val accuracy : 0.5633333333333334
+Start of 527 epoch
+	 Train loss : 1.411895307846704, val loss : 1.590455570258664
+	 Train accuracy : 0.5492142857142858, val accuracy : 0.5488333333333333
+Start of 528 epoch
+	 Train loss : 1.585944251571327, val loss : 1.443600788218793
+	 Train accuracy : 0.5789285714285715, val accuracy : 0.5635
+Start of 529 epoch
+	 Train loss : 1.409014869042207, val loss : 1.587294863643953
+	 Train accuracy : 0.5499285714285714, val accuracy : 0.5495
+Start of 530 epoch
+	 Train loss : 1.5825002058719821, val loss : 1.440435719555713
+	 Train accuracy : 0.5785714285714286, val accuracy : 0.5638333333333333
+Start of 531 epoch
+	 Train loss : 1.4059314104647467, val loss : 1.5837708902115297
+	 Train accuracy : 0.5506428571428571, val accuracy : 0.5506666666666666
+Start of 532 epoch
+	 Train loss : 1.5787056559213888, val loss : 1.4371651486844008
+	 Train accuracy : 0.5800714285714286, val accuracy : 0.565
+Start of 533 epoch
+	 Train loss : 1.4027607485572473, val loss : 1.5809842269262335
+	 Train accuracy : 0.5511428571428572, val accuracy : 0.5503333333333333
+Start of 534 epoch
+	 Train loss : 1.575434973267559, val loss : 1.433637498327827
+	 Train accuracy : 0.5807142857142857, val accuracy : 0.5658333333333333
+Start of 535 epoch
+	 Train loss : 1.3994842422276346, val loss : 1.5775120156096873
+	 Train accuracy : 0.5528571428571428, val accuracy : 0.5513333333333333
+Start of 536 epoch
+	 Train loss : 1.5718528115781525, val loss : 1.430940873658426
+	 Train accuracy : 0.5813571428571429, val accuracy : 0.5668333333333333
+Start of 537 epoch
+	 Train loss : 1.3965246635017905, val loss : 1.5741897239347318
+	 Train accuracy : 0.554, val accuracy : 0.5523333333333333
+Start of 538 epoch
+	 Train loss : 1.5685385694259837, val loss : 1.4280399718508203
+	 Train accuracy : 0.5824285714285714, val accuracy : 0.5673333333333334
+Start of 539 epoch
+	 Train loss : 1.3936374179873532, val loss : 1.5714727153918806
+	 Train accuracy : 0.5547142857142857, val accuracy : 0.5525
+Start of 540 epoch
+	 Train loss : 1.5655228007270299, val loss : 1.4253833430945646
+	 Train accuracy : 0.5829285714285715, val accuracy : 0.5683333333333334
+Start of 541 epoch
+	 Train loss : 1.3910097376970465, val loss : 1.5689123023131473
+	 Train accuracy : 0.5558571428571428, val accuracy : 0.5526666666666666
+Start of 542 epoch
+	 Train loss : 1.5623116860051531, val loss : 1.4215146911717362
+	 Train accuracy : 0.5830714285714286, val accuracy : 0.5688333333333333
+Start of 543 epoch
+	 Train loss : 1.387410822199947, val loss : 1.5653328237334523
+	 Train accuracy : 0.5556428571428571, val accuracy : 0.5531666666666667
+Start of 544 epoch
+	 Train loss : 1.5588445288492232, val loss : 1.4195131171618807
+	 Train accuracy : 0.5840714285714286, val accuracy : 0.5701666666666667
+Start of 545 epoch
+	 Train loss : 1.385196965053534, val loss : 1.5624183232529143
+	 Train accuracy : 0.5567857142857143, val accuracy : 0.5546666666666666
+Start of 546 epoch
+	 Train loss : 1.555875314259758, val loss : 1.416488915709206
+	 Train accuracy : 0.5851428571428572, val accuracy : 0.5708333333333333
+Start of 547 epoch
+	 Train loss : 1.3822083191158563, val loss : 1.55998359100716
+	 Train accuracy : 0.5581428571428572, val accuracy : 0.5541666666666667
+Start of 548 epoch
+	 Train loss : 1.5530735755752147, val loss : 1.4132755302834885
+	 Train accuracy : 0.5857857142857142, val accuracy : 0.5711666666666667
+Start of 549 epoch
+	 Train loss : 1.378961388926645, val loss : 1.5573687182620848
+	 Train accuracy : 0.5582142857142857, val accuracy : 0.5543333333333333
+Start of 550 epoch
+	 Train loss : 1.5501612411756704, val loss : 1.4107427999005049
+	 Train accuracy : 0.5857857142857142, val accuracy : 0.5716666666666667
+Start of 551 epoch
+	 Train loss : 1.3765089204406467, val loss : 1.5553234526134343
+	 Train accuracy : 0.5594285714285714, val accuracy : 0.5548333333333333
+Start of 552 epoch
+	 Train loss : 1.5473772495562155, val loss : 1.406859644185605
+	 Train accuracy : 0.5867857142857142, val accuracy : 0.5735
+Start of 553 epoch
+	 Train loss : 1.3728457192577963, val loss : 1.5519373765480131
+	 Train accuracy : 0.5605, val accuracy : 0.5555
+Start of 554 epoch
+	 Train loss : 1.5442876956629155, val loss : 1.403088238760564
+	 Train accuracy : 0.5875, val accuracy : 0.5741666666666667
+Start of 555 epoch
+	 Train loss : 1.3690265622292084, val loss : 1.5494395521966227
+	 Train accuracy : 0.5615, val accuracy : 0.556
+Start of 556 epoch
+	 Train loss : 1.541516487843221, val loss : 1.399643665266601
+	 Train accuracy : 0.5881428571428572, val accuracy : 0.5746666666666667
+Start of 557 epoch
+	 Train loss : 1.3658239290113985, val loss : 1.5467883732529764
+	 Train accuracy : 0.5621428571428572, val accuracy : 0.556
+Start of 558 epoch
+	 Train loss : 1.5388770082457717, val loss : 1.3969620969672896
+	 Train accuracy : 0.5889285714285715, val accuracy : 0.5743333333333334
+Start of 559 epoch
+	 Train loss : 1.3630808074596505, val loss : 1.5442336525731841
+	 Train accuracy : 0.5625714285714286, val accuracy : 0.556
+Start of 560 epoch
+	 Train loss : 1.536190956839485, val loss : 1.3934780344226634
+	 Train accuracy : 0.5895714285714285, val accuracy : 0.5763333333333334
+Start of 561 epoch
+	 Train loss : 1.359757919715766, val loss : 1.5421951128664781
+	 Train accuracy : 0.5632142857142857, val accuracy : 0.556
+Start of 562 epoch
+	 Train loss : 1.5337069076319265, val loss : 1.3895059559739094
+	 Train accuracy : 0.5910714285714286, val accuracy : 0.578
+Start of 563 epoch
+	 Train loss : 1.3562021113587508, val loss : 1.5394575624734883
+	 Train accuracy : 0.5637857142857143, val accuracy : 0.5561666666666667
+Start of 564 epoch
+	 Train loss : 1.5309618294570118, val loss : 1.3869793980437346
+	 Train accuracy : 0.5920714285714286, val accuracy : 0.5785
+Start of 565 epoch
+	 Train loss : 1.3534277864373834, val loss : 1.5368422694127912
+	 Train accuracy : 0.5649285714285714, val accuracy : 0.557
+Start of 566 epoch
+	 Train loss : 1.5282923894303133, val loss : 1.3834049590668616
+	 Train accuracy : 0.5924285714285714, val accuracy : 0.5806666666666667
+Start of 567 epoch
+	 Train loss : 1.3502190365774822, val loss : 1.5344120301588913
+	 Train accuracy : 0.5655714285714286, val accuracy : 0.5575
+Start of 568 epoch
+	 Train loss : 1.5257873861783218, val loss : 1.3809139439506402
+	 Train accuracy : 0.5933571428571428, val accuracy : 0.581
+Start of 569 epoch
+	 Train loss : 1.3476704338547796, val loss : 1.5321719942200365
+	 Train accuracy : 0.5664285714285714, val accuracy : 0.5595
+Start of 570 epoch
+	 Train loss : 1.5234516813099435, val loss : 1.3782675495679757
+	 Train accuracy : 0.5947857142857143, val accuracy : 0.5815
+Start of 571 epoch
+	 Train loss : 1.3449664934300987, val loss : 1.5295884685194072
+	 Train accuracy : 0.5672142857142857, val accuracy : 0.5593333333333333
+Start of 572 epoch
+	 Train loss : 1.5210595118292303, val loss : 1.3753188880124811
+	 Train accuracy : 0.5956428571428571, val accuracy : 0.5826666666666667
+Start of 573 epoch
+	 Train loss : 1.3421500280462644, val loss : 1.527698904981178
+	 Train accuracy : 0.5672142857142857, val accuracy : 0.5596666666666666
+Start of 574 epoch
+	 Train loss : 1.519088606623097, val loss : 1.3725790052475337
+	 Train accuracy : 0.596, val accuracy : 0.5828333333333333
+Start of 575 epoch
+	 Train loss : 1.3394865747033575, val loss : 1.5259039295134569
+	 Train accuracy : 0.5676428571428571, val accuracy : 0.5596666666666666
+Start of 576 epoch
+	 Train loss : 1.5170636354922251, val loss : 1.3698865993970781
+	 Train accuracy : 0.597, val accuracy : 0.584
+Start of 577 epoch
+	 Train loss : 1.3368279511756258, val loss : 1.5238337863027507
+	 Train accuracy : 0.5682857142857143, val accuracy : 0.5606666666666666
+Start of 578 epoch
+	 Train loss : 1.5146793012249309, val loss : 1.3673978248329168
+	 Train accuracy : 0.5980714285714286, val accuracy : 0.585
+Start of 579 epoch
+	 Train loss : 1.3342828336114394, val loss : 1.5217714481118656
+	 Train accuracy : 0.5689285714285715, val accuracy : 0.5616666666666666
+Start of 580 epoch
+	 Train loss : 1.5125953139796675, val loss : 1.3652574341675194
+	 Train accuracy : 0.599, val accuracy : 0.5845
+Start of 581 epoch
+	 Train loss : 1.3323990644955346, val loss : 1.5196534457343385
+	 Train accuracy : 0.5692142857142857, val accuracy : 0.562
+Start of 582 epoch
+	 Train loss : 1.510472375523557, val loss : 1.362876697676312
+	 Train accuracy : 0.5995, val accuracy : 0.585
+Start of 583 epoch
+	 Train loss : 1.329999712212322, val loss : 1.517709047204913
+	 Train accuracy : 0.5697142857142857, val accuracy : 0.5625
+Start of 584 epoch
+	 Train loss : 1.5083920338056822, val loss : 1.3597501909682044
+	 Train accuracy : 0.5998571428571429, val accuracy : 0.586
+Start of 585 epoch
+	 Train loss : 1.3272615899549352, val loss : 1.5153426649946744
+	 Train accuracy : 0.5699285714285715, val accuracy : 0.5631666666666667
+Start of 586 epoch
+	 Train loss : 1.5060604631966372, val loss : 1.357929798962071
+	 Train accuracy : 0.6005, val accuracy : 0.5865
+Start of 587 epoch
+	 Train loss : 1.325512123392784, val loss : 1.513208394504775
+	 Train accuracy : 0.5705714285714286, val accuracy : 0.5635
+Start of 588 epoch
+	 Train loss : 1.503592274294502, val loss : 1.3555147239060943
+	 Train accuracy : 0.6017142857142858, val accuracy : 0.5871666666666666
+Start of 589 epoch
+	 Train loss : 1.3232900061488477, val loss : 1.5114682327491706
+	 Train accuracy : 0.5711428571428572, val accuracy : 0.564
+Start of 590 epoch
+	 Train loss : 1.5016723862965151, val loss : 1.3538104316692838
+	 Train accuracy : 0.6017857142857143, val accuracy : 0.588
+Start of 591 epoch
+	 Train loss : 1.3213110448307561, val loss : 1.5097537706672657
+	 Train accuracy : 0.5714285714285714, val accuracy : 0.5643333333333334
+Start of 592 epoch
+	 Train loss : 1.4998129783756289, val loss : 1.3513504595813275
+	 Train accuracy : 0.6024285714285714, val accuracy : 0.589
+Start of 593 epoch
+	 Train loss : 1.318940230534594, val loss : 1.507985680606768
+	 Train accuracy : 0.5714285714285714, val accuracy : 0.5651666666666667
+Start of 594 epoch
+	 Train loss : 1.4983825355825169, val loss : 1.3494974908740387
+	 Train accuracy : 0.6024285714285714, val accuracy : 0.5895
+Start of 595 epoch
+	 Train loss : 1.31701758370607, val loss : 1.506507247774412
+	 Train accuracy : 0.572, val accuracy : 0.565
+Start of 596 epoch
+	 Train loss : 1.4967959199715677, val loss : 1.347094677597004
+	 Train accuracy : 0.6028571428571429, val accuracy : 0.5896666666666667
+Start of 597 epoch
+	 Train loss : 1.3147523528263012, val loss : 1.5048521798325765
+	 Train accuracy : 0.5727142857142857, val accuracy : 0.565
+Start of 598 epoch
+	 Train loss : 1.4950036774741173, val loss : 1.3453006632487594
+	 Train accuracy : 0.6033571428571428, val accuracy : 0.5906666666666667
+Start of 599 epoch
+	 Train loss : 1.3129863052463115, val loss : 1.503251008137137
+	 Train accuracy : 0.5731428571428572, val accuracy : 0.566
+Start of 600 epoch
+	 Train loss : 1.4933483549230449, val loss : 1.342922644945011
+	 Train accuracy : 0.604, val accuracy : 0.5918333333333333
+
+Test accuracy 0.5918333333333333
